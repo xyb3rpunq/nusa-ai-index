@@ -5,6 +5,7 @@
 import { t } from './i18n.js';
 import { escXml, urlAman, batangHorizontal, sebar, tumpuk } from './charts.js';
 import { KATEGORI, raporKarya } from './engine.js';
+import { FONT } from './font.js';
 
 const esc = escXml;
 const href = (u) => escXml(urlAman(u));
@@ -169,7 +170,13 @@ function bagianMati(b, r) {
 }
 
 function kaki(b, r, meta) {
-  return `<footer>
+  return `<section id="privasi">
+  <h2>${esc(t(b, 'privasi.judul'))}</h2>
+  <p class="sec-p">${esc(t(b, 'privasi.isi'))}</p>
+  <p><a href=\"mailto:hutajuludaniel126@gmail.com">${esc(t(b, 'privasi.kontak'))}: hutajuludaniel126@gmail.com</a></p>
+</section>
+
+<footer>
   <p>${esc(t(b, 'bag.kaki.data', { tanggal: meta.tanggal }))}</p>
   <p>${esc(t(b, 'bag.kaki.etika'))}</p>
   <p>${esc(t(b, 'bag.kaki.cakupan', {
@@ -192,6 +199,8 @@ export function halaman({ bahasa, rows, ringkasan, meta }) {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; form-action 'none'; base-uri 'none'; frame-ancestors 'none'">
+<meta name="referrer" content="no-referrer">
 <title>${esc(t(b, 'meta.judul'))}</title>
 <meta name="description" content="${esc(t(b, 'meta.deskripsi'))}">
 <meta property="og:title" content="${esc(t(b, 'meta.judul'))}">
@@ -200,9 +209,7 @@ export function halaman({ bahasa, rows, ringkasan, meta }) {
 <link rel="alternate" hreflang="id" href="${esc(meta.basis)}/">
 <link rel="alternate" hreflang="en" href="${esc(meta.basis)}/en/">
 <link rel="alternate" hreflang="x-default" href="${esc(meta.basis)}/">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Newsreader:opsz,wght@6..72,400;6..72,500&family=JetBrains+Mono:wght@400;500;700&display=swap">
+<style>${FONT}</style>
 <style>${GAYA}</style>
 </head>
 <body>

@@ -69,6 +69,9 @@ export const KAMUS = Object.freeze({
     'bag.mati.label': '{n} karya',
     'bag.mati.intro': 'Dicek dengan permintaan GET. Kegagalan "kode" berarti servernya menjawab dengan error; "jaringan" berarti DNS gagal, sertifikat tidak sah, atau timeout.',
 
+    'privasi.judul': 'Privasi',
+    'privasi.kontak': 'Kirim surel',
+    'privasi.isi': 'Halaman ini tidak mengumpulkan apa pun. Tidak ada server yang menerima datamu, tidak ada analitik, tidak ada cookie, dan tidak ada satu pun permintaan jaringan keluar — font pun di-host di repo ini sendiri, bukan diambil dari server pihak ketiga. Semua yang kamu ketik tetap di perambanmu dan hilang saat tabnya ditutup. Karena tidak ada yang disimpan, tidak ada masa retensi dan tidak ada yang bisa diminta hapus. Kalau ada yang perlu ditanyakan atau diperbaiki, hubungi lewat tautan di bawah atau buka issue di repo.',
     'bag.kaki.data': 'Data ditarik dari endpoint publik aiclub.id/api/v1/* serta halaman provinsi, kota, dan profil builder pada {tanggal}.',
     'bag.kaki.etika': 'robots.txt aiclub.id memasang Content-Signal search=yes, ai-train=no, use=reference dengan Allow: /. Halaman ini memperlakukan datanya sebagai referensi dan indeks — metadata dan tautan balik, tanpa memirror gambar atau isi karya, dan bukan sebagai bahan latih model.',
     'bag.kaki.cakupan': '{karya} dari {klaim} karya berhasil ditarik ({persen}%), mencakup {love} dari {loveKlaim} love. Hak cipta tiap karya ada pada pembuatnya masing-masing.',
@@ -145,6 +148,9 @@ export const KAMUS = Object.freeze({
     'bag.mati.label': '{n} projects',
     'bag.mati.intro': 'Checked with a GET request. A "code" failure means the server answered with an error; "network" means DNS failed, the certificate was invalid, or it timed out.',
 
+    'privasi.judul': 'Privacy',
+    'privasi.kontak': 'Send an email',
+    'privasi.isi': 'This page collects nothing. No server receives your data, no analytics, no cookies, and not a single outbound network request — even the fonts are hosted in this repository rather than fetched from a third party. Everything you type stays in your browser and is gone when the tab closes. Because nothing is stored, there is no retention period and nothing to request deletion of. If something needs asking or fixing, use the link below or open an issue on the repo.',
     'bag.kaki.data': 'Data pulled from the public endpoints at aiclub.id/api/v1/* plus province, city, and builder pages on {tanggal}.',
     'bag.kaki.etika': 'The aiclub.id robots.txt carries Content-Signal search=yes, ai-train=no, use=reference with Allow: /. This page treats that data as reference and index material — metadata and backlinks, with no mirroring of images or project content, and never as model training data.',
     'bag.kaki.cakupan': '{karya} of {klaim} projects were retrieved ({persen}%), covering {love} of {loveKlaim} loves. Each project remains the copyright of its author.',

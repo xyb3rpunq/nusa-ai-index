@@ -4,7 +4,7 @@
  *   node src/build.js            -> tulis docs/ dari data/
  *   node src/build.js --periksa  -> rakit ke memori saja, laporkan, jangan tulis
  */
-import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync, copyFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { ringkas } from './engine.js';
@@ -104,6 +104,13 @@ function main() {
     console.log(`periksa lolos — ${rows.length} karya, ${keluaran.size} halaman, `
       + `rerata rapor ${ringkasan.raporRerata.toFixed(1)}`);
     return;
+  }
+
+  // Berkas font di-host sendiri; CSS-nya disisipkan inline, tapi berkas woff2-nya
+  // tetap harus ikut terbit atau halamannya jatuh ke font sistem tanpa tanda apa pun.
+  mkdirSync(join(DOCS, 'font'), { recursive: true });
+  for (const f of readdirSync(join(AKAR, 'src', 'font'))) {
+    copyFileSync(join(AKAR, 'src', 'font', f), join(DOCS, 'font', f));
   }
 
   const ditulis = [];

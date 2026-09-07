@@ -67,13 +67,13 @@ nusa-ai-index/
 ├── tools/            crawler Python (dipanggil GitHub Actions tiap hari)
 ├── data/             dataset terbit — karya, builder, meta
 ├── docs/             keluaran build, dilayani GitHub Pages
-└── test/             134 uji, nol dependensi
+└── test/             142 uji, nol dependensi
 ```
 
 ## Menjalankan
 
 ```bash
-npm test          # 134 uji, tanpa instal apa pun
+npm test          # 142 uji, tanpa instal apa pun
 npm run build     # rakit docs/ dari data/
 npm run periksa   # uji lalu build — dipakai CI
 ```
@@ -114,6 +114,24 @@ dengan `Allow: /`. Repo ini memperlakukan datanya sebagai **referensi dan indeks
 
 Pemilik karya yang ingin entrinya dihapus dari indeks ini bisa membuka issue —
 akan dihapus tanpa pertanyaan.
+
+## Font di-host sendiri
+
+Halaman ini tidak melakukan **satu pun** permintaan jaringan keluar — termasuk untuk font.
+Berkas woff2 subset latin disimpan di repo ini dan dilayani dari domain yang sama.
+
+Itu bukan detail sepele: versi pertama memuat font dari Google Fonts sambil README-nya
+mengklaim "nol permintaan jaringan keluar". Klaim itu tidak benar — setiap kunjungan
+mengirimkan alamat IP pengunjung ke server pihak ketiga. `pdp-guard` menandainya sendiri
+saat dipindai ke situs ini (`transfer-luar-negeri`), dan ada uji yang sekarang menolak
+setiap sumber daya dari host luar supaya klaimnya tetap benar.
+
+## Header keamanan di host statis
+
+GitHub Pages tidak bisa menyetel header respons. Content-Security-Policy dan
+Referrer-Policy tetap berlaku lewat `<meta>` dan sudah dipasang; Strict-Transport-Security
+dan X-Content-Type-Options memang tidak bisa dari sana, dan itu dikatakan apa adanya
+alih-alih dipura-purakan.
 
 ## Lisensi
 
