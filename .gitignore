@@ -2,3 +2,6 @@ node_modules/
 *.log
 .DS_Store
 Thumbs.db
+
+# Konfigurasi pratinjau lokal, bukan bagian dari proyek
+.claude/

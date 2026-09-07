@@ -1,0 +1,5 @@
+# Semua berkas teks disimpan dengan LF di repositori, apa pun sistem operasinya.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.webp binary
