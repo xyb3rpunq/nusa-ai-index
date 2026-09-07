@@ -1,12 +1,12 @@
 {
- "totalKarya": 242,
- "totalLove": 371,
- "hidup": 223,
- "mati": 19,
+ "totalKarya": 244,
+ "totalLove": 378,
+ "hidup": 200,
+ "mati": 44,
  "perKategori": [
   [
    "web",
-   65
+   67
   ],
   [
    "saas",
@@ -51,16 +51,16 @@
    10
   ],
   [
+   "Malang",
+   9
+  ],
+  [
    "Tasikmalaya",
    9
   ],
   [
    "Tangerang",
    9
-  ],
-  [
-   "Malang",
-   8
   ],
   [
    "Cimahi",
@@ -122,11 +122,11 @@
   ],
   [
    "Jawa Tengah",
-   33
+   34
   ],
   [
    "Jawa Timur",
-   33
+   34
   ],
   [
    "DKI Jakarta",
@@ -208,7 +208,7 @@
  "perPlatform": [
   [
    "Domain sendiri",
-   122
+   124
   ],
   [
    "Domain .my.id",
@@ -333,11 +333,11 @@
    18
   ],
   [
-   "Game / hiburan / kreatif",
-   13
+   "Data / riset / intelijen",
+   14
   ],
   [
-   "Data / riset / intelijen",
+   "Game / hiburan / kreatif",
    13
   ],
   [
@@ -349,15 +349,15 @@
    12
   ],
   [
-   "Web3 / kripto",
+   "Kesehatan",
    11
   ],
   [
-   "Kesehatan",
-   10
+   "Web3 / kripto",
+   11
   ]
  ],
- "loveNol": 80,
+ "loveNol": 81,
  "punyaRepoPublik": 20,
  "bulanan": [
   [
@@ -370,11 +370,11 @@
   ],
   [
    "2026-09",
-   18
+   20
   ]
  ],
  "repoTerdeteksi": 20,
- "repoTotalStars": 162,
+ "repoTotalStars": 163,
  "klaimOpenSourceTanpaRepo": 27,
  "topRepo": [
   {
@@ -420,16 +420,16 @@
    "love": 0
   },
   {
+   "title": "cash‑flow multimodal",
+   "slug": "Nurauliamuhdir/I-O-Modal-MoneyMate",
+   "stars": 4,
+   "love": 20
+  },
+  {
    "title": "hyperframes-video-workflow",
    "slug": "denameidina/hyperframes-video-workflow",
    "stars": 4,
    "love": 2
-  },
-  {
-   "title": "cash‑flow multimodal",
-   "slug": "Nurauliamuhdir/I-O-Modal-MoneyMate",
-   "stars": 3,
-   "love": 18
   },
   {
    "title": "FEATURE MAP",

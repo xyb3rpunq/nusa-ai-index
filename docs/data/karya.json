@@ -5,7 +5,7 @@
   "tagline": "AI Agent WhatsApp\r\nuntuk UMKM Indonesia",
   "url": "https://lakoni.sulth.com/",
   "category": "saas",
-  "love": 25,
+  "love": 26,
   "createdAt": "2026-07-11T05:02:42.628Z",
   "memberId": "s00_01KX7R0YM2Y2QEH0DE41R79AXM",
   "comments": 0,
@@ -31,7 +31,7 @@
   "tagline": "Mencatat transaksi lebih mudah, cukup kirim, AI yang mengelola",
   "url": "https://github.com/Nurauliamuhdir/I-O-Modal-MoneyMate",
   "category": "opensource",
-  "love": 18,
+  "love": 20,
   "createdAt": "2026-07-12T04:47:27.438Z",
   "memberId": "s00_01KXA9RAKWZVMNTVX71GGGEKHD",
   "comments": 0,
@@ -54,13 +54,39 @@
   "github": {
    "slug": "Nurauliamuhdir/I-O-Modal-MoneyMate",
    "ada": true,
-   "stars": 3,
+   "stars": 4,
    "forks": 0,
    "bahasa": null,
    "lisensi": null,
    "pushedAt": "2025-07-26",
    "issues": 0
   }
+ },
+ {
+  "id": "s00_01KYTW35W6QYPZF9TCXJ2PRG6Q",
+  "title": "Dana Kampung - Iuran Kampung",
+  "tagline": "DAPUNG",
+  "url": "https://nalarin-dapung.acal.my.id/",
+  "category": "opensource",
+  "love": 10,
+  "createdAt": "2026-07-31T01:19:51.517Z",
+  "memberId": "s00_01KXF9GMC5M6M55Y74S6ZPKHGN",
+  "comments": 3,
+  "author": "Heri",
+  "cityName": "Sleman",
+  "citySlug": "kab-sleman",
+  "provinceSlug": "di-yogyakarta",
+  "provinceName": "DI Yogyakarta",
+  "page": "https://aiclub.id/showcase/s00_01KYTW35W6QYPZF9TCXJ2PRG6Q",
+  "image": "https://aiclub.id/img/s/s00_01KYTW35W6QYPZF9TCXJ2PRG6Q.jpg",
+  "httpStatus": 200,
+  "httpNote": "http 200",
+  "urlBersih": "https://nalarin-dapung.acal.my.id/",
+  "platform": "Domain .my.id",
+  "tema": [
+   "Pemerintahan / desa / komunitas"
+  ],
+  "hidup": true
  },
  {
   "id": "s00_01KXZTASRM2FWEBQJ5KMWW606P",
@@ -85,32 +111,6 @@
   "platform": "Vercel",
   "tema": [
    "Produktivitas personal"
-  ],
-  "hidup": true
- },
- {
-  "id": "s00_01KYTW35W6QYPZF9TCXJ2PRG6Q",
-  "title": "Dana Kampung - Iuran Kampung",
-  "tagline": "DAPUNG",
-  "url": "https://nalarin-dapung.acal.my.id/",
-  "category": "opensource",
-  "love": 9,
-  "createdAt": "2026-07-31T01:19:51.517Z",
-  "memberId": "s00_01KXF9GMC5M6M55Y74S6ZPKHGN",
-  "comments": 3,
-  "author": "Heri",
-  "cityName": "Sleman",
-  "citySlug": "kab-sleman",
-  "provinceSlug": "di-yogyakarta",
-  "provinceName": "DI Yogyakarta",
-  "page": "https://aiclub.id/showcase/s00_01KYTW35W6QYPZF9TCXJ2PRG6Q",
-  "image": "https://aiclub.id/img/s/s00_01KYTW35W6QYPZF9TCXJ2PRG6Q.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
-  "urlBersih": "https://nalarin-dapung.acal.my.id/",
-  "platform": "Domain .my.id",
-  "tema": [
-   "Pemerintahan / desa / komunitas"
   ],
   "hidup": true
  },
@@ -272,6 +272,33 @@
   "hidup": true
  },
  {
+  "id": "s00_01KY2024VDWX9731QYT490K6CA",
+  "title": "Dental Clinic Information System",
+  "tagline": "Dental Clinic Information System\r\nadalah sebuah web aplikasi pendaftaran pasien sampai dengan RME ( Rekam Medis Elektronik )",
+  "url": "https://klinik.dentamedika.com/",
+  "category": "web",
+  "love": 5,
+  "createdAt": "2026-07-21T09:28:11.093Z",
+  "memberId": "s00_01KWRFQVJTS4C02767YQ85QVTN",
+  "comments": 0,
+  "author": "Ananta Satriya",
+  "cityName": "Malang",
+  "citySlug": "kab-malang",
+  "provinceSlug": "jawa-timur",
+  "provinceName": "Jawa Timur",
+  "page": "https://aiclub.id/showcase/s00_01KY2024VDWX9731QYT490K6CA",
+  "image": "https://aiclub.id/img/s/s00_01KY2024VDWX9731QYT490K6CA.jpg",
+  "httpStatus": null,
+  "httpNote": "koneksi gagal",
+  "urlBersih": "https://klinik.dentamedika.com/",
+  "platform": "Domain sendiri",
+  "tema": [
+   "Kesehatan",
+   "Developer tools / infra"
+  ],
+  "hidup": false
+ },
+ {
   "id": "s00_01KY4N1JXX8FBG1P4018QZPQTH",
   "title": "Felio ID - AI Content Automation",
   "tagline": "Bikin visual guideline, content pillar, topic, WTF hooks, caption, hingga gambar (single & carousel) dan video. Semua serba otomatis !",
@@ -346,6 +373,34 @@
   "platform": "Domain .my.id",
   "tema": [
    "Lainnya"
+  ],
+  "hidup": true
+ },
+ {
+  "id": "s00_01KYSKTVZHG4HSJP48BBF1P8RZ",
+  "title": "Onyx Terminal",
+  "tagline": "Platform intelijen pasar kripto berbasis AI untuk membantu trader menganalisis sentimen pasar, pergerakan on-chain, dan sinyal trading presisi.",
+  "url": "https://onyx-terminal-v1.vercel.app/terminal",
+  "category": "opensource",
+  "love": 5,
+  "createdAt": "2026-07-30T13:36:16.270Z",
+  "memberId": "s00_01KYS9Z59AEQGB4BHK7PEZ0SD0",
+  "comments": 0,
+  "author": "arblok",
+  "cityName": "Tasikmalaya",
+  "citySlug": "kab-tasikmalaya",
+  "provinceSlug": "jawa-barat",
+  "provinceName": "Jawa Barat",
+  "page": "https://aiclub.id/showcase/s00_01KYSKTVZHG4HSJP48BBF1P8RZ",
+  "image": "https://aiclub.id/img/s/s00_01KYSKTVZHG4HSJP48BBF1P8RZ.jpg",
+  "httpStatus": 200,
+  "httpNote": "http 200",
+  "urlBersih": "https://onyx-terminal-v1.vercel.app/terminal",
+  "platform": "Vercel",
+  "tema": [
+   "Developer tools / infra",
+   "Web3 / kripto",
+   "Data / riset / intelijen"
   ],
   "hidup": true
  },
@@ -427,33 +482,6 @@
    "Lainnya"
   ],
   "hidup": true
- },
- {
-  "id": "s00_01KY2024VDWX9731QYT490K6CA",
-  "title": "Dental Clinic Information System",
-  "tagline": "Dental Clinic Information System\r\nadalah sebuah web aplikasi pendaftaran pasien sampai dengan RME ( Rekam Medis Elektronik )",
-  "url": "https://klinik.dentamedika.com/",
-  "category": "web",
-  "love": 4,
-  "createdAt": "2026-07-21T09:28:11.093Z",
-  "memberId": "s00_01KWRFQVJTS4C02767YQ85QVTN",
-  "comments": 0,
-  "author": "Ananta Satriya",
-  "cityName": "Malang",
-  "citySlug": "kab-malang",
-  "provinceSlug": "jawa-timur",
-  "provinceName": "Jawa Timur",
-  "page": "https://aiclub.id/showcase/s00_01KY2024VDWX9731QYT490K6CA",
-  "image": "https://aiclub.id/img/s/s00_01KY2024VDWX9731QYT490K6CA.jpg",
-  "httpStatus": null,
-  "httpNote": "timeout",
-  "urlBersih": "https://klinik.dentamedika.com/",
-  "platform": "Domain sendiri",
-  "tema": [
-   "Kesehatan",
-   "Developer tools / infra"
-  ],
-  "hidup": false
  },
  {
   "id": "s00_01M09ERK8VA9SBWJFRD6N40S2A",
@@ -625,34 +653,6 @@
   "hidup": true
  },
  {
-  "id": "s00_01KYSKTVZHG4HSJP48BBF1P8RZ",
-  "title": "Onyx Terminal",
-  "tagline": "Platform intelijen pasar kripto berbasis AI untuk membantu trader menganalisis sentimen pasar, pergerakan on-chain, dan sinyal trading presisi.",
-  "url": "https://onyx-terminal-v1.vercel.app/terminal",
-  "category": "opensource",
-  "love": 4,
-  "createdAt": "2026-07-30T13:36:16.270Z",
-  "memberId": "s00_01KYS9Z59AEQGB4BHK7PEZ0SD0",
-  "comments": 0,
-  "author": "arblok",
-  "cityName": "Tasikmalaya",
-  "citySlug": "kab-tasikmalaya",
-  "provinceSlug": "jawa-barat",
-  "provinceName": "Jawa Barat",
-  "page": "https://aiclub.id/showcase/s00_01KYSKTVZHG4HSJP48BBF1P8RZ",
-  "image": "https://aiclub.id/img/s/s00_01KYSKTVZHG4HSJP48BBF1P8RZ.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
-  "urlBersih": "https://onyx-terminal-v1.vercel.app/terminal",
-  "platform": "Vercel",
-  "tema": [
-   "Developer tools / infra",
-   "Web3 / kripto",
-   "Data / riset / intelijen"
-  ],
-  "hidup": true
- },
- {
   "id": "s00_01KXX60VSZ1GSF2PZ38H5ZBBHW",
   "title": "PSTI JATIM",
   "tagline": "Rumah resmi pembinaan sepak takraw Jawa Timur.\r\nPortal ini disiapkan sebagai pusat informasi organisasi",
@@ -670,7 +670,7 @@
   "page": "https://aiclub.id/showcase/s00_01KXX60VSZ1GSF2PZ38H5ZBBHW",
   "image": "https://aiclub.id/img/s/s00_01KXX60VSZ1GSF2PZ38H5ZBBHW.jpg",
   "httpStatus": null,
-  "httpNote": "DNS gagal",
+  "httpNote": "koneksi gagal",
   "urlBersih": "https://www.pstijatim.com",
   "platform": "Domain sendiri",
   "tema": [
@@ -800,8 +800,8 @@
   "provinceName": "Jawa Barat",
   "page": "https://aiclub.id/showcase/s00_01KX8BS0XE71B9BMZ8VNJYBBZ4",
   "image": "https://aiclub.id/img/s/s00_01KX8BS0XE71B9BMZ8VNJYBBZ4.png",
-  "httpStatus": 202,
-  "httpNote": "http 202",
+  "httpStatus": 200,
+  "httpNote": "http 200",
   "urlBersih": "https://masj.id",
   "platform": "Domain sendiri",
   "tema": [
@@ -905,15 +905,15 @@
   "provinceName": "Sulawesi Selatan",
   "page": "https://aiclub.id/showcase/s00_01KY4V3ZMEKGMHAQJV9P02BADT",
   "image": "https://aiclub.id/img/s/s00_01KY4V3ZMEKGMHAQJV9P02BADT.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": null,
+  "httpNote": "timeout",
   "urlBersih": "https://www.azkazamdigital.com/blastmap",
   "platform": "Domain sendiri",
   "tema": [
    "CRM / WhatsApp automation",
    "Data / riset / intelijen"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KXZMCEYMKW6T7DXJF2F77T32",
@@ -1193,10 +1193,10 @@
    "slug": "99apps-id/teledrive",
    "ada": true,
    "stars": 36,
-   "forks": 10,
+   "forks": 11,
    "bahasa": "Python",
    "lisensi": "GPL-3.0",
-   "pushedAt": "2026-08-23",
+   "pushedAt": "2026-09-06",
    "issues": 2
   }
  },
@@ -1245,14 +1245,14 @@
   "provinceName": "DI Yogyakarta",
   "page": "https://aiclub.id/showcase/s00_01KXPHAXNBNDD9RVVTW87W2M74",
   "image": "https://aiclub.id/img/s/s00_01KXPHAXNBNDD9RVVTW87W2M74.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://lynk.id/homebizcreative/po22z5vd2g6q",
   "platform": "Lynk.id (jual produk)",
   "tema": [
    "Web builder / template / portfolio"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KY7QEDF5J114Z518QPT0F6ZX",
@@ -1460,14 +1460,14 @@
   "provinceName": "DI Yogyakarta",
   "page": "https://aiclub.id/showcase/s00_01KX5X3DNEZ73R03W2ZZZ4ZNRK",
   "image": "https://aiclub.id/img/s/s00_01KX5X3DNEZ73R03W2ZZZ4ZNRK.png",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://0ms.my.id/",
   "platform": "Domain .my.id",
   "tema": [
    "POS / kasir / inventori"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KWVST7PB2CNCD4X8KF5ECDJW",
@@ -1749,14 +1749,14 @@
   "provinceName": "DKI Jakarta",
   "page": "https://aiclub.id/showcase/s00_01M05PJ76EEXFYGY7VWMDM7379",
   "image": "https://aiclub.id/img/s/s00_01M05PJ76EEXFYGY7VWMDM7379.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://usewombat.app",
   "platform": "Domain sendiri",
   "tema": [
    "Lainnya"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KXCXDRMJGGH9DTWD9B42XT6H",
@@ -1900,15 +1900,15 @@
   "provinceName": "Jawa Barat",
   "page": "https://aiclub.id/showcase/s00_01KXE8ZHN2GJC2KXA58F3ZKF7J",
   "image": "https://aiclub.id/img/s/s00_01KXE8ZHN2GJC2KXA58F3ZKF7J.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://clipper.axiamasi.com/",
   "platform": "Domain sendiri",
   "tema": [
    "Konten / marketing AI",
    "Developer tools / infra"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KYV3GZJ0W58H14BAZ0C1F429",
@@ -1979,14 +1979,14 @@
   "provinceName": "Jawa Barat",
   "page": "https://aiclub.id/showcase/s00_01KXN35CV1P4E5GZF74QJDN1YR",
   "image": "https://aiclub.id/img/s/s00_01KXN35CV1P4E5GZF74QJDN1YR-Ojk7HA.png",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://lynk.id/yuddesign",
   "platform": "Lynk.id (jual produk)",
   "tema": [
    "Konten / marketing AI"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KXDNFS56Q41V8RFT05ZXQJ5Z",
@@ -2242,14 +2242,14 @@
   "provinceName": "Jawa Barat",
   "page": "https://aiclub.id/showcase/s00_01KXJHBVTJK6NQZ82SJQRVBR8G",
   "image": "https://aiclub.id/img/s/s00_01KXJHBVTJK6NQZ82SJQRVBR8G.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://lynk.id/prodigiz/lwzemoklxzgy",
   "platform": "Lynk.id (jual produk)",
   "tema": [
    "Konten / marketing AI"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01M1BJBGRD7N9ZT7QPWZ5WX7PZ",
@@ -2828,14 +2828,14 @@
   "provinceName": "Jawa Timur",
   "page": "https://aiclub.id/showcase/s00_01KY1D8W1ZDN923893V2HKFP19",
   "image": "https://aiclub.id/img/s/s00_01KY1D8W1ZDN923893V2HKFP19.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://laci.pelajarnumagetan.or.id/",
   "platform": "Domain sendiri",
   "tema": [
    "Pemerintahan / desa / komunitas"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KXN2BJ5TW0X8DF4MB8Z01CDW",
@@ -2854,15 +2854,15 @@
   "provinceName": "Jawa Barat",
   "page": "https://aiclub.id/showcase/s00_01KXN2BJ5TW0X8DF4MB8Z01CDW",
   "image": "https://aiclub.id/img/s/s00_01KXN2BJ5TW0X8DF4MB8Z01CDW-CgUQHg.png",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://lynk.id/yuddesign",
   "platform": "Lynk.id (jual produk)",
   "tema": [
    "Konten / marketing AI",
    "Web builder / template / portfolio"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KYTFCJ9CEM7XKV2MD4FCJXRX",
@@ -3022,8 +3022,8 @@
   "provinceName": "DKI Jakarta",
   "page": "https://aiclub.id/showcase/s00_01KZJK7T850MS3765ASH4Y956B",
   "image": "https://aiclub.id/img/s/s00_01KZJK7T850MS3765ASH4Y956B.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://meocode.com/projects/meo-reduce-token",
   "platform": "Domain sendiri",
   "tema": [
@@ -3031,7 +3031,7 @@
    "Developer tools / infra",
    "Web3 / kripto"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KXX6V6QB31SEA6ZBSQK84VJT",
@@ -3261,14 +3261,14 @@
   "provinceName": "Jawa Timur",
   "page": "https://aiclub.id/showcase/s00_01KYKXEP3R9MV1AN6E1BKANMXW",
   "image": "https://aiclub.id/img/s/s00_01KYKXEP3R9MV1AN6E1BKANMXW-IVHUFg.png",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://tracker.piyuralabs.com/",
   "platform": "Domain sendiri",
   "tema": [
    "Produktivitas personal"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KXMFX8570V0EX59RG5D46JDN",
@@ -3313,14 +3313,14 @@
   "provinceName": "DKI Jakarta",
   "page": "https://aiclub.id/showcase/s00_01KXFBSXT71N10FX82JKCVWZ00",
   "image": "https://aiclub.id/img/s/s00_01KXFBSXT71N10FX82JKCVWZ00.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://ridecheck.januridp.web.id/",
   "platform": "Domain .web.id",
   "tema": [
    "Produktivitas personal"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KZK3DNT0PRR6688249DB0TTN",
@@ -3393,14 +3393,14 @@
   "provinceName": "Sulawesi Selatan",
   "page": "https://aiclub.id/showcase/s00_01KY4QG17N07TZG3699ZNCJDBA",
   "image": "https://aiclub.id/img/s/s00_01KY4QG17N07TZG3699ZNCJDBA-RT2PeA.png",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": null,
+  "httpNote": "timeout",
   "urlBersih": "https://rupaai.azkazamdigital.com/",
   "platform": "Domain sendiri",
   "tema": [
    "Konten / marketing AI"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KYKXPC4VAE7DXVEFZFFYC8MN",
@@ -3419,14 +3419,14 @@
   "provinceName": "Jawa Timur",
   "page": "https://aiclub.id/showcase/s00_01KYKXPC4VAE7DXVEFZFFYC8MN",
   "image": "https://aiclub.id/img/s/s00_01KYKXPC4VAE7DXVEFZFFYC8MN.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://rutinanku.piyuralabs.com/",
   "platform": "Domain sendiri",
   "tema": [
    "Produktivitas personal"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01M0HHP17DE98DEC7BTEM27Q6Z",
@@ -3578,14 +3578,14 @@
   "provinceName": "Jawa Timur",
   "page": "https://aiclub.id/showcase/s00_01KYKX053CKKQT2NX9D9MKYCTF",
   "image": "https://aiclub.id/img/s/s00_01KYKX053CKKQT2NX9D9MKYCTF.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://sos.piyuralabs.com/",
   "platform": "Domain sendiri",
   "tema": [
    "POS / kasir / inventori"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01M0QKTAYM5NG5NDGDB2F4ZEYA",
@@ -3735,14 +3735,14 @@
   "provinceName": "DKI Jakarta",
   "page": "https://aiclub.id/showcase/s00_01KX5XDH2JGV16Q9SP6W5TKBSH",
   "image": "https://aiclub.id/img/s/s00_01KX5XDH2JGV16Q9SP6W5TKBSH.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://sqwerly.com",
   "platform": "Domain sendiri",
   "tema": [
    "Web builder / template / portfolio"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KXQDF9NGTNGZBS2V5JWZ0D10",
@@ -3918,14 +3918,14 @@
   "provinceName": "Jawa Barat",
   "page": "https://aiclub.id/showcase/s00_01KXN40HWSN3EZXHFCSF6FVNKR",
   "image": "https://aiclub.id/img/s/s00_01KXN40HWSN3EZXHFCSF6FVNKR.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://lynk.id/yuddesign",
   "platform": "Lynk.id (jual produk)",
   "tema": [
    "Konten / marketing AI"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KZ3X0J2H9RJAKKJZJ644408N",
@@ -4128,14 +4128,14 @@
   "provinceName": "Jawa Tengah",
   "page": "https://aiclub.id/showcase/s00_01KWSZ8ZQXNF5ZPQ333S220VSF",
   "image": "https://aiclub.id/img/s/s00_01KWSZ8ZQXNF5ZPQ333S220VSF.png",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://waswuz.com",
   "platform": "Domain sendiri",
   "tema": [
    "CRM / WhatsApp automation"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KY6MRWEYT2B3TZNVK5JZM1GZ",
@@ -4191,14 +4191,14 @@
   "provinceName": "Jawa Timur",
   "page": "https://aiclub.id/showcase/s00_01M0QMC8478Y04X2FJAZF7KXG0",
   "image": "https://aiclub.id/img/s/s00_01M0QMC8478Y04X2FJAZF7KXG0.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://tour.ozodemo.my.id/",
   "platform": "Domain .my.id",
   "tema": [
    "Travel / properti / marketplace"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KXCYFZJS6ZE2MBFCBQCP9P1S",
@@ -4385,6 +4385,32 @@
   "hidup": false
  },
  {
+  "id": "s00_01M1XCMWVT5CQDEZ5466XP4611",
+  "title": "website iddevops.com",
+  "tagline": "hasil re-design dan optimasi website. CMS menggunakan Grav CMS yang berbasis makrdown. Theme & layout di buat menggunakan Hermes Agent.",
+  "url": "https://iddevops.com/",
+  "category": "web",
+  "love": 1,
+  "createdAt": "2026-09-07T07:34:44.941Z",
+  "memberId": "s00_01M0ECHFS8FTKD0R4FRRGXENFF",
+  "comments": 0,
+  "author": "Wawan Rachmanto",
+  "cityName": "Malang",
+  "citySlug": "kab-malang",
+  "provinceSlug": "jawa-timur",
+  "provinceName": "Jawa Timur",
+  "page": "https://aiclub.id/showcase/s00_01M1XCMWVT5CQDEZ5466XP4611",
+  "image": "https://aiclub.id/img/s/s00_01M1XCMWVT5CQDEZ5466XP4611.jpg",
+  "httpStatus": 200,
+  "httpNote": "http 200",
+  "urlBersih": "https://iddevops.com/",
+  "platform": "Domain sendiri",
+  "tema": [
+   "Kesehatan"
+  ],
+  "hidup": true
+ },
+ {
   "id": "s00_01M1GTPT94CGATTHBPTKKRPV3R",
   "title": "\"Rusyd | رُشْد\"",
   "tagline": "\"Rusyd | رُشْد\" Adalah sebuah pustaka digital yang memanfaatkan AI untuk membantu menelusuri referensi dari karya-karya para ulama.",
@@ -4531,15 +4557,15 @@
   "provinceName": "Jawa Barat",
   "page": "https://aiclub.id/showcase/s00_01KXN486GDXQKTX8M1J3ZF8THT",
   "image": "https://aiclub.id/img/s/s00_01KXN486GDXQKTX8M1J3ZF8THT.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://lynk.id/yuddesign",
   "platform": "Lynk.id (jual produk)",
   "tema": [
    "POS / kasir / inventori",
    "Konten / marketing AI"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KYA5MZTRWS1X7SZP3HJ2AQ2K",
@@ -4584,14 +4610,14 @@
   "provinceName": "Jawa Barat",
   "page": "https://aiclub.id/showcase/s00_01KXN3P1VWN10P4N6RSG6PAB8R",
   "image": "https://aiclub.id/img/s/s00_01KXN3P1VWN10P4N6RSG6PAB8R.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://lynk.id/yuddesign",
   "platform": "Lynk.id (jual produk)",
   "tema": [
    "Konten / marketing AI"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KYTFK8DJHA2XS8FYBQJTYR5Z",
@@ -4677,7 +4703,7 @@
    "forks": 6,
    "bahasa": "TypeScript",
    "lisensi": "MIT",
-   "pushedAt": "2026-09-05",
+   "pushedAt": "2026-09-07",
    "issues": 0
   }
  },
@@ -4818,7 +4844,7 @@
    "forks": 11,
    "bahasa": "TypeScript",
    "lisensi": "MIT",
-   "pushedAt": "2026-09-04",
+   "pushedAt": "2026-09-07",
    "issues": 3
   }
  },
@@ -4892,14 +4918,14 @@
   "provinceName": "Jawa Barat",
   "page": "https://aiclub.id/showcase/s00_01KZJCYS95R8CHYG4HQHJY9SN4",
   "image": "https://aiclub.id/img/s/s00_01KZJCYS95R8CHYG4HQHJY9SN4.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://lynk.id/unicorelabs/e35qrl7w71j2",
   "platform": "Lynk.id (jual produk)",
   "tema": [
    "Pendidikan / sekolah"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KYT7GQS47Y25AQ99C88GVXK3",
@@ -5130,14 +5156,14 @@
   "provinceName": "Jawa Barat",
   "page": "https://aiclub.id/showcase/s00_01KZJCG263YMKH1J7WANCMH6X4",
   "image": "https://aiclub.id/img/s/s00_01KZJCG263YMKH1J7WANCMH6X4.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://itcenter.co.id",
   "platform": "Domain sendiri",
   "tema": [
    "Pemerintahan / desa / komunitas"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01M08081V5YPX4Y2JHE85QKG49",
@@ -5182,15 +5208,15 @@
   "provinceName": "Sulawesi Selatan",
   "page": "https://aiclub.id/showcase/s00_01KY4V9Z1VZGG2GXFN0NN5X0T6",
   "image": "https://aiclub.id/img/s/s00_01KY4V9Z1VZGG2GXFN0NN5X0T6.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": null,
+  "httpNote": "timeout",
   "urlBersih": "https://www.azkazamdigital.com/instachatmax",
   "platform": "Domain sendiri",
   "tema": [
    "CRM / WhatsApp automation",
    "Travel / properti / marketplace"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01M17DAFCVFBFJEDDEZAH5CGQX",
@@ -5261,14 +5287,14 @@
   "provinceName": "Jawa Tengah",
   "page": "https://aiclub.id/showcase/s00_01KZ87Z9Q9V0KZG2H7FTX75YG3",
   "image": "https://aiclub.id/img/s/s00_01KZ87Z9Q9V0KZG2H7FTX75YG3.jpg",
-  "httpStatus": 502,
-  "httpNote": "http 502",
+  "httpStatus": 200,
+  "httpNote": "http 200",
   "urlBersih": "https://kajawi.xyz/",
   "platform": "Domain sendiri",
   "tema": [
    "Lainnya"
   ],
-  "hidup": false
+  "hidup": true
  },
  {
   "id": "s00_01M1NX7N87AJW6BXWE5HPD2KF7",
@@ -5418,14 +5444,14 @@
   "provinceName": "DKI Jakarta",
   "page": "https://aiclub.id/showcase/s00_01M1M1YAMGSVSACXE0HAVW7D8P",
   "image": "https://aiclub.id/img/s/s00_01M1M1YAMGSVSACXE0HAVW7D8P.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://mindrouter.io",
   "platform": "Domain sendiri",
   "tema": [
    "Developer tools / infra"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01M1EH7X8AAG1TMD07A6Y9JV4X",
@@ -5598,7 +5624,7 @@
   "page": "https://aiclub.id/showcase/s00_01KX747QGS3M8J9QYWJATFHQYK",
   "image": "https://aiclub.id/img/s/s00_01KX747QGS3M8J9QYWJATFHQYK.png",
   "httpStatus": null,
-  "httpNote": "DNS gagal",
+  "httpNote": "koneksi gagal",
   "urlBersih": "https://nibtm.web.id",
   "platform": "Domain .web.id",
   "tema": [
@@ -5811,14 +5837,14 @@
   "provinceName": "Sulawesi Selatan",
   "page": "https://aiclub.id/showcase/s00_01KY4RA5V0RCCRC6ZGV2CG7S1V",
   "image": "https://aiclub.id/img/s/s00_01KY4RA5V0RCCRC6ZGV2CG7S1V.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": null,
+  "httpNote": "timeout",
   "urlBersih": "https://www.azkazamdigital.com/robotta",
   "platform": "Domain sendiri",
   "tema": [
    "Travel / properti / marketplace"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KY4QZM2KC9VTDYY7C55SVJHM",
@@ -5837,14 +5863,14 @@
   "provinceName": "Sulawesi Selatan",
   "page": "https://aiclub.id/showcase/s00_01KY4QZM2KC9VTDYY7C55SVJHM",
   "image": "https://aiclub.id/img/s/s00_01KY4QZM2KC9VTDYY7C55SVJHM.jpg",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": null,
+  "httpNote": "timeout",
   "urlBersih": "https://www.azkazamdigital.com/roket",
   "platform": "Domain sendiri",
   "tema": [
    "Travel / properti / marketplace"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KX03KXC15HNRYQ96FZXZ9H8M",
@@ -6173,6 +6199,32 @@
   "hidup": true
  },
  {
+  "id": "s00_01M1TDAEZBMXY7YJYDQHTZHR51",
+  "title": "Tool Analisa Keuntungan Seller E-commerce - Anti Boncos & Cek Margin Bersih",
+  "tagline": "Boscos NO, Profit YES",
+  "url": "https://ai.studio/apps/02da8d85-7b96-4cfa-923a-45a46e3ad297",
+  "category": "web",
+  "love": 0,
+  "createdAt": "2026-09-06T03:48:48.288Z",
+  "memberId": "s00_01M1N2CJR25NH9P9K04JZC36VG",
+  "comments": 0,
+  "author": "BosPK",
+  "cityName": "Kudus",
+  "citySlug": "kab-kudus",
+  "provinceSlug": "jawa-tengah",
+  "provinceName": "Jawa Tengah",
+  "page": "https://aiclub.id/showcase/s00_01M1TDAEZBMXY7YJYDQHTZHR51",
+  "image": "https://aiclub.id/img/s/s00_01M1TDAEZBMXY7YJYDQHTZHR51.jpg",
+  "httpStatus": 200,
+  "httpNote": "http 200",
+  "urlBersih": "https://ai.studio/apps/02da8d85-7b96-4cfa-923a-45a46e3ad297",
+  "platform": "Domain sendiri",
+  "tema": [
+   "Data / riset / intelijen"
+  ],
+  "hidup": true
+ },
+ {
   "id": "s00_01KYTF3DC82BX1B8QDWXZ8NNAB",
   "title": "UKM MyTriv",
   "tagline": "All-in-One ERP untuk UMKM Indonesia\r\nSatu Platform untuk\r\nSemua Kebutuhan Bisnis\r\nPOS, Akuntansi, HRM, CRM dalam satu ekosistem. ERP berbasis AI.",
@@ -6350,7 +6402,7 @@
   "page": "https://aiclub.id/showcase/s00_01KZZNXSM2FVVMBJM1V4CBF4DJ",
   "image": "https://aiclub.id/img/s/s00_01KZZNXSM2FVVMBJM1V4CBF4DJ.jpg",
   "httpStatus": null,
-  "httpNote": "DNS gagal",
+  "httpNote": "koneksi gagal",
   "urlBersih": "https://uline.my.id",
   "platform": "Domain .my.id",
   "tema": [
@@ -6416,7 +6468,7 @@
    "forks": 0,
    "bahasa": "Go",
    "lisensi": "MIT",
-   "pushedAt": "2026-09-02",
+   "pushedAt": "2026-09-06",
    "issues": 0
   }
  },
@@ -6437,8 +6489,8 @@
   "provinceName": "Kalimantan Barat",
   "page": "https://aiclub.id/showcase/s00_01KY0C5ZGQATSEPE5TG57DM51T",
   "image": "https://aiclub.id/img/s/s00_01KY0C5ZGQATSEPE5TG57DM51T.jpg",
-  "httpStatus": 530,
-  "httpNote": "http 530",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://haccpdinarproject.com/",
   "platform": "Domain sendiri",
   "tema": [
@@ -6463,14 +6515,14 @@
   "provinceName": "Kalimantan Barat",
   "page": "https://aiclub.id/showcase/s00_01KY0CMHCGYCW875FSY9ZDY917",
   "image": "https://aiclub.id/img/s/s00_01KY0CMHCGYCW875FSY9ZDY917.jpg",
-  "httpStatus": 530,
-  "httpNote": "http 530",
+  "httpStatus": 200,
+  "httpNote": "http 200",
   "urlBersih": "https://kalbarnusantara.id",
   "platform": "Domain sendiri",
   "tema": [
    "Lainnya"
   ],
-  "hidup": false
+  "hidup": true
  },
  {
   "id": "s00_01KXHN8W6TJTJE4XSQ2GK09EHV",
@@ -6515,14 +6567,14 @@
   "provinceName": "Lampung",
   "page": "https://aiclub.id/showcase/s00_01KWY6F6MCW9RF7HHDEQVCTB0N",
   "image": "https://aiclub.id/img/s/s00_01KWY6F6MCW9RF7HHDEQVCTB0N.png",
-  "httpStatus": 200,
-  "httpNote": "http 200",
+  "httpStatus": 403,
+  "httpNote": "http 403",
   "urlBersih": "https://portalonline.id/",
   "platform": "Domain sendiri",
   "tema": [
    "Pendidikan / sekolah"
   ],
-  "hidup": true
+  "hidup": false
  },
  {
   "id": "s00_01KY0CH85D9TNCVQ8EJ3S1WXAB",
@@ -6541,14 +6593,14 @@
   "provinceName": "Kalimantan Barat",
   "page": "https://aiclub.id/showcase/s00_01KY0CH85D9TNCVQ8EJ3S1WXAB",
   "image": "https://aiclub.id/img/s/s00_01KY0CH85D9TNCVQ8EJ3S1WXAB.jpg",
-  "httpStatus": 530,
-  "httpNote": "http 530",
+  "httpStatus": 200,
+  "httpNote": "http 200",
   "urlBersih": "https://siapabsen.com",
   "platform": "Domain sendiri",
   "tema": [
    "Pendidikan / sekolah"
   ],
-  "hidup": false
+  "hidup": true
  },
  {
   "id": "s00_01KXBQS1HCKJB7PA4J8P2WD2HQ",

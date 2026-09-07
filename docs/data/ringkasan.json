@@ -1,36 +1,36 @@
 {
- "total": 242,
- "totalLove": 371,
- "hidup": 223,
- "mati": 19,
+ "total": 244,
+ "totalLove": 378,
+ "hidup": 200,
+ "mati": 44,
  "berepo": 20,
- "totalBintang": 162,
- "tanpaLove": 80,
+ "totalBintang": 163,
+ "tanpaLove": 81,
  "hostPengganti": 20,
  "klaimOssTanpaRepo": 27,
- "raporRerata": 51.8801652892562,
+ "raporRerata": 47.60245901639344,
  "perTingkat": [
   [
    "rapuh",
-   203
+   180
   ],
   [
    "kritis",
-   19
+   44
   ],
   [
    "prima",
-   17
+   16
   ],
   [
    "sehat",
-   3
+   4
   ]
  ],
  "perKategori": [
   [
    "web",
-   65
+   67
   ],
   [
    "saas",
@@ -60,15 +60,15 @@
  "loveKategori": [
   [
    "saas",
-   102
+   103
   ],
   [
    "opensource",
-   96
+   100
   ],
   [
    "web",
-   76
+   78
   ],
   [
    "tools",
@@ -94,11 +94,11 @@
   ],
   [
    "Jawa Tengah",
-   33
+   34
   ],
   [
    "Jawa Timur",
-   33
+   34
   ],
   [
    "DKI Jakarta",
@@ -195,6 +195,10 @@
    10
   ],
   [
+   "Malang",
+   9
+  ],
+  [
    "Tangerang",
    9
   ],
@@ -204,10 +208,6 @@
   ],
   [
    "Cimahi",
-   8
-  ],
-  [
-   "Malang",
    8
   ],
   [
@@ -331,6 +331,10 @@
    2
   ],
   [
+   "Kudus",
+   2
+  ],
+  [
    "Lampung Utara",
    2
   ],
@@ -396,10 +400,6 @@
   ],
   [
    "Kotawaringin Barat",
-   1
-  ],
-  [
-   "Kudus",
    1
   ],
   [
@@ -502,7 +502,7 @@
   },
   {
    "tema": "Data / riset / intelijen",
-   "n": 13,
+   "n": 14,
    "nilai": "ramai"
   },
   {
@@ -521,13 +521,13 @@
    "nilai": "ramai"
   },
   {
-   "tema": "Web3 / kripto",
+   "tema": "Kesehatan",
    "n": 11,
    "nilai": "tipis"
   },
   {
-   "tema": "Kesehatan",
-   "n": 10,
+   "tema": "Web3 / kripto",
+   "n": 11,
    "nilai": "tipis"
   },
   {
@@ -571,12 +571,52 @@
   },
   {
    "bulan": "2026-09",
-   "n": 18,
+   "n": 20,
    "hari": 5,
-   "laju": 3.6
+   "laju": 4
   }
  ],
  "daftarMati": [
+  {
+   "id": "s00_01KXN35CV1P4E5GZF74QJDN1YR",
+   "title": "Affili4teReactor AI",
+   "url": "https://lynk.id/yuddesign",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01KXN486GDXQKTX8M1J3ZF8THT",
+   "title": "AI Automotive Video Flow Generator",
+   "url": "https://lynk.id/yuddesign",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01KXE8ZHN2GJC2KXA58F3ZKF7J",
+   "title": "AI Clipper",
+   "url": "https://clipper.axiamasi.com/",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01KXN3P1VWN10P4N6RSG6PAB8R",
+   "title": "AI Influencer Generator",
+   "url": "https://lynk.id/yuddesign",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01KXPHAXNBNDD9RVVTW87W2M74",
+   "title": "AI Photo Profile Maker",
+   "url": "https://lynk.id/homebizcreative/po22z5vd2g6q",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
+  },
   {
    "id": "s00_01KXDNFS56Q41V8RFT05ZXQJ5Z",
    "title": "Aigoo",
@@ -594,6 +634,22 @@
    "jenis": "kode"
   },
   {
+   "id": "s00_01KY4V3ZMEKGMHAQJV9P02BADT",
+   "title": "BlastMap (WA AI Agent, Broadcast WA, Scraper Gmaps)",
+   "url": "https://www.azkazamdigital.com/blastmap",
+   "status": null,
+   "catatan": "timeout",
+   "jenis": "jaringan"
+  },
+  {
+   "id": "s00_01KXJHBVTJK6NQZ82SJQRVBR8G",
+   "title": "Brutal Konten",
+   "url": "https://lynk.id/prodigiz/lwzemoklxzgy",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
+  },
+  {
    "id": "s00_01KXPWW977CAQJANDZ8FWQ785E",
    "title": "Call Shield Smart Spam Blocker",
    "url": "https://callshield.timxsoft.com",
@@ -606,31 +662,63 @@
    "title": "Dental Clinic Information System",
    "url": "https://klinik.dentamedika.com/",
    "status": null,
-   "catatan": "timeout",
+   "catatan": "koneksi gagal",
    "jenis": "jaringan"
+  },
+  {
+   "id": "s00_01KZJCYS95R8CHYG4HQHJY9SN4",
+   "title": "Ebook - Panduan Lengkap teknisi HP untuk pemula",
+   "url": "https://lynk.id/unicorelabs/e35qrl7w71j2",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
   },
   {
    "id": "s00_01KY0C5ZGQATSEPE5TG57DM51T",
    "title": "haccp-dinarproject",
    "url": "https://haccpdinarproject.com/",
-   "status": 530,
-   "catatan": "http 530",
+   "status": 403,
+   "catatan": "http 403",
    "jenis": "kode"
   },
   {
-   "id": "s00_01KZ87Z9Q9V0KZG2H7FTX75YG3",
-   "title": "Kajawi",
-   "url": "https://kajawi.xyz/",
-   "status": 502,
-   "catatan": "http 502",
+   "id": "s00_01KY4V9Z1VZGG2GXFN0NN5X0T6",
+   "title": "InstaChat Max (Kelola chat masuk FBMP dan balas otomatis)",
+   "url": "https://www.azkazamdigital.com/instachatmax",
+   "status": null,
+   "catatan": "timeout",
+   "jenis": "jaringan"
+  },
+  {
+   "id": "s00_01KZJCG263YMKH1J7WANCMH6X4",
+   "title": "IT CENTER - MACBOOK REPAIR BATAM",
+   "url": "https://itcenter.co.id",
+   "status": 403,
+   "catatan": "http 403",
    "jenis": "kode"
   },
   {
-   "id": "s00_01KY0CMHCGYCW875FSY9ZDY917",
-   "title": "kalbarnusantara",
-   "url": "https://kalbarnusantara.id",
-   "status": 530,
-   "catatan": "http 530",
+   "id": "s00_01KX5X3DNEZ73R03W2ZZZ4ZNRK",
+   "title": "KasirKu – Bukan SaaS. POS offline-first milikmu.",
+   "url": "https://0ms.my.id/",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01KY1D8W1ZDN923893V2HKFP19",
+   "title": "LACI — Layanan Cerdas Administrasi untuk PC IPNU IPPNU Kabupaten Magetan.",
+   "url": "https://laci.pelajarnumagetan.or.id/",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01KXN2BJ5TW0X8DF4MB8Z01CDW",
+   "title": "Landing Page Generator",
+   "url": "https://lynk.id/yuddesign",
+   "status": 403,
+   "catatan": "http 403",
    "jenis": "kode"
   },
   {
@@ -650,6 +738,22 @@
    "jenis": "kode"
   },
   {
+   "id": "s00_01KZJK7T850MS3765ASH4Y956B",
+   "title": "Meo Reduce Token",
+   "url": "https://meocode.com/projects/meo-reduce-token",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01M1M1YAMGSVSACXE0HAVW7D8P",
+   "title": "MindRouter - Satu API Multi Model",
+   "url": "https://mindrouter.io",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
+  },
+  {
    "id": "s00_01KXZM1C7M66Q4N4ZC2EBM0BKE",
    "title": "MSO",
    "url": "https://os.rahmanef.com/",
@@ -662,7 +766,7 @@
    "title": "NiBTM Open Science and Research Platform",
    "url": "https://nibtm.web.id",
    "status": null,
-   "catatan": "DNS gagal",
+   "catatan": "koneksi gagal",
    "jenis": "jaringan"
   },
   {
@@ -682,6 +786,14 @@
    "jenis": "jaringan"
   },
   {
+   "id": "s00_01KWY6F6MCW9RF7HHDEQVCTB0N",
+   "title": "portalonline",
+   "url": "https://portalonline.id/",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
+  },
+  {
    "id": "s00_01KX7CZ0FAEQJM3RYBR90TT54J",
    "title": "Portfolio",
    "url": "https://gifariksuryo.xyz",
@@ -690,19 +802,67 @@
    "jenis": "kode"
   },
   {
+   "id": "s00_01KYKXEP3R9MV1AN6E1BKANMXW",
+   "title": "Project Tracker",
+   "url": "https://tracker.piyuralabs.com/",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
+  },
+  {
    "id": "s00_01KXX60VSZ1GSF2PZ38H5ZBBHW",
    "title": "PSTI JATIM",
    "url": "https://www.pstijatim.com",
    "status": null,
-   "catatan": "DNS gagal",
+   "catatan": "koneksi gagal",
    "jenis": "jaringan"
   },
   {
-   "id": "s00_01KY0CH85D9TNCVQ8EJ3S1WXAB",
-   "title": "siapabsen",
-   "url": "https://siapabsen.com",
-   "status": 530,
-   "catatan": "http 530",
+   "id": "s00_01KXFBSXT71N10FX82JKCVWZ00",
+   "title": "RideCheck",
+   "url": "https://ridecheck.januridp.web.id/",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01KY4QZM2KC9VTDYY7C55SVJHM",
+   "title": "Robot Posting Facebook Marketplace PC",
+   "url": "https://www.azkazamdigital.com/roket",
+   "status": null,
+   "catatan": "timeout",
+   "jenis": "jaringan"
+  },
+  {
+   "id": "s00_01KY4RA5V0RCCRC6ZGV2CG7S1V",
+   "title": "Robot Posting FB Marketplace di Android",
+   "url": "https://www.azkazamdigital.com/robotta",
+   "status": null,
+   "catatan": "timeout",
+   "jenis": "jaringan"
+  },
+  {
+   "id": "s00_01KY4QG17N07TZG3699ZNCJDBA",
+   "title": "RupaAI",
+   "url": "https://rupaai.azkazamdigital.com/",
+   "status": null,
+   "catatan": "timeout",
+   "jenis": "jaringan"
+  },
+  {
+   "id": "s00_01KYKXPC4VAE7DXVEFZFFYC8MN",
+   "title": "RutinanKu",
+   "url": "https://rutinanku.piyuralabs.com/",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01KYKX053CKKQT2NX9D9MKYCTF",
+   "title": "Simple Order Systems",
+   "url": "https://sos.piyuralabs.com/",
+   "status": 403,
+   "catatan": "http 403",
    "jenis": "kode"
   },
   {
@@ -722,17 +882,57 @@
    "jenis": "kode"
   },
   {
+   "id": "s00_01KX5XDH2JGV16Q9SP6W5TKBSH",
+   "title": "Sqwerly Website Builder",
+   "url": "https://sqwerly.com",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01KXN40HWSN3EZXHFCSF6FVNKR",
+   "title": "Timelapse Video Flow Generator",
+   "url": "https://lynk.id/yuddesign",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01KWSZ8ZQXNF5ZPQ333S220VSF",
+   "title": "Waswuz.com — Omnichannel CRM WhatsApp, Instagram & Messenger",
+   "url": "https://waswuz.com",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01M0QMC8478Y04X2FJAZF7KXG0",
+   "title": "Website Tour Travel",
+   "url": "https://tour.ozodemo.my.id/",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
+  },
+  {
    "id": "s00_01KZZNXSM2FVVMBJM1V4CBF4DJ",
    "title": "Website uline.my.id",
    "url": "https://uline.my.id",
    "status": null,
-   "catatan": "DNS gagal",
+   "catatan": "koneksi gagal",
    "jenis": "jaringan"
+  },
+  {
+   "id": "s00_01M05PJ76EEXFYGY7VWMDM7379",
+   "title": "Wombat",
+   "url": "https://usewombat.app",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
   }
  ],
  "juara": {
-  "puncak": 25,
-  "butuh": 26
+  "puncak": 26,
+  "butuh": 27
  },
  "bintang": {
   "titik": [
@@ -779,16 +979,16 @@
     "love": 0
    },
    {
+    "title": "cash‑flow multimodal",
+    "slug": "Nurauliamuhdir/I-O-Modal-MoneyMate",
+    "star": 4,
+    "love": 20
+   },
+   {
     "title": "hyperframes-video-workflow",
     "slug": "denameidina/hyperframes-video-workflow",
     "star": 4,
     "love": 2
-   },
-   {
-    "title": "cash‑flow multimodal",
-    "slug": "Nurauliamuhdir/I-O-Modal-MoneyMate",
-    "star": 3,
-    "love": 18
    },
    {
     "title": "FEATURE MAP",
@@ -857,6 +1057,6 @@
     "love": 0
    }
   ],
-  "korelasi": -0.07518661573017414
+  "korelasi": -0.060560917979513025
  }
 }

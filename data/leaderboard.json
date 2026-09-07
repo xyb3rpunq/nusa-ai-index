@@ -1,0 +1,1075 @@
+{
+ "semua": {
+  "topKarya": [
+   {
+    "id": "s00_01KX7RWVNCFMCHQWYFCSF5A0VM",
+    "title": "Lakoni",
+    "category": "saas",
+    "imageKey": "s/s00_01KX7RWVNCFMCHQWYFCSF5A0VM.png",
+    "love": 26,
+    "author": "sulth",
+    "cityName": "Klaten"
+   },
+   {
+    "id": "s00_01KXAADMX9JV29A6G49QJTKBMP",
+    "title": "cash‑flow multimodal",
+    "category": "opensource",
+    "imageKey": "s/s00_01KXAADMX9JV29A6G49QJTKBMP.png",
+    "love": 20,
+    "author": "Nur Aulia Muhdir",
+    "cityName": "Makassar"
+   },
+   {
+    "id": "s00_01KYTW35W6QYPZF9TCXJ2PRG6Q",
+    "title": "Dana Kampung - Iuran Kampung",
+    "category": "opensource",
+    "imageKey": "s/s00_01KYTW35W6QYPZF9TCXJ2PRG6Q.jpg",
+    "love": 10,
+    "author": "Heri",
+    "cityName": "Sleman"
+   },
+   {
+    "id": "s00_01KXZTASRM2FWEBQJ5KMWW606P",
+    "title": "silong - notion x obsidian clone",
+    "category": "opensource",
+    "imageKey": "s/s00_01KXZTASRM2FWEBQJ5KMWW606P.jpg",
+    "love": 10,
+    "author": "rahman",
+    "cityName": "Jakarta Timur"
+   },
+   {
+    "id": "s00_01KXCXGYVQAW0Y6PSQ00R0EGQ6",
+    "title": "EduCraft",
+    "category": "produk",
+    "imageKey": "s/s00_01KXCXGYVQAW0Y6PSQ00R0EGQ6.jpg",
+    "love": 9,
+    "author": "PareanomDigital",
+    "cityName": "Yogyakarta"
+   },
+   {
+    "id": "s00_01M142F4YJ09AXW34E5K3T2ZFY",
+    "title": "Tes Keterampilan Berhitung Dasar",
+    "category": "produk",
+    "imageKey": "s/s00_01M142F4YJ09AXW34E5K3T2ZFY.jpg",
+    "love": 7,
+    "author": "Adems",
+    "cityName": "Semarang"
+   },
+   {
+    "id": "s00_01KXZM1C7M66Q4N4ZC2EBM0BKE",
+    "title": "MSO",
+    "category": "opensource",
+    "imageKey": "s/s00_01KXZM1C7M66Q4N4ZC2EBM0BKE.jpg",
+    "love": 7,
+    "author": "rahman",
+    "cityName": "Jakarta Timur"
+   },
+   {
+    "id": "s00_01KY4PSV4HFK67X0WDY3KX0MNG",
+    "title": "Konsulpajak-ai.com  (Konsultasi Pajak Berbasis AI )",
+    "category": "web",
+    "imageKey": "s/s00_01KY4PSV4HFK67X0WDY3KX0MNG-MYR7aA.jpg",
+    "love": 6,
+    "author": "Konsulpajak-ai.com",
+    "cityName": "Makassar"
+   },
+   {
+    "id": "s00_01KX0DWADZ5EKJ11KGTX9TRVG8",
+    "title": "dikasihUP Creator Toolkit",
+    "category": "tools",
+    "imageKey": "s/s00_01KX0DWADZ5EKJ11KGTX9TRVG8.png",
+    "love": 6,
+    "author": "rahmad",
+    "cityName": "Makassar"
+   },
+   {
+    "id": "s00_01M1RWVK1Q3MWHDVFZ7CAX4NH3",
+    "title": "PyWizard: The Magic Syntax",
+    "category": "lainnya",
+    "imageKey": "s/s00_01M1RWVK1Q3MWHDVFZ7CAX4NH3.jpg",
+    "love": 5,
+    "author": "MayoiSiggy",
+    "cityName": "Sukoharjo"
+   }
+  ],
+  "topBuilder": [
+   {
+    "memberId": "s00_01KX7R0YM2Y2QEH0DE41R79AXM",
+    "author": "sulth",
+    "cityName": "Klaten",
+    "karya": 1,
+    "love": 26
+   },
+   {
+    "memberId": "s00_01KWRFQVJTS4C02767YQ85QVTN",
+    "author": "Ananta Satriya",
+    "cityName": "Malang",
+    "karya": 6,
+    "love": 25
+   },
+   {
+    "memberId": "s00_01KX2Y0F1Y5V9GJJS1E4RRN7RH",
+    "author": "rahman",
+    "cityName": "Jakarta Timur",
+    "karya": 4,
+    "love": 21
+   },
+   {
+    "memberId": "s00_01KXA9RAKWZVMNTVX71GGGEKHD",
+    "author": "Nur Aulia Muhdir",
+    "cityName": "Makassar",
+    "karya": 1,
+    "love": 20
+   },
+   {
+    "memberId": "s00_01KXPRZ4VYAERX427M5A0D77R3",
+    "author": "Roy",
+    "cityName": "Semarang",
+    "karya": 3,
+    "love": 13
+   },
+   {
+    "memberId": "s00_01KY624PBRC5S9RW0DN0NF50GV",
+    "author": "popokbayi",
+    "cityName": "Blitar",
+    "karya": 6,
+    "love": 12
+   },
+   {
+    "memberId": "s00_01KWSDYF5DBT8C4W9Z8YVKSBNC",
+    "author": "Zml",
+    "cityName": "Sumedang",
+    "karya": 4,
+    "love": 10
+   },
+   {
+    "memberId": "s00_01KX0D7Q8VND2M8B06SRRXCS67",
+    "author": "rahmad",
+    "cityName": "Makassar",
+    "karya": 2,
+    "love": 10
+   },
+   {
+    "memberId": "s00_01KXCXAJN5ZAZ050X26ABK1QJX",
+    "author": "PareanomDigital",
+    "cityName": "Yogyakarta",
+    "karya": 2,
+    "love": 10
+   },
+   {
+    "memberId": "s00_01KXF9GMC5M6M55Y74S6ZPKHGN",
+    "author": "Heri",
+    "cityName": "Sleman",
+    "karya": 1,
+    "love": 10
+   }
+  ],
+  "topKota": [
+   {
+    "cityName": "Makassar",
+    "citySlug": "makassar",
+    "provinceSlug": "sulawesi-selatan",
+    "karya": 13,
+    "love": 51
+   },
+   {
+    "cityName": "Semarang",
+    "citySlug": "semarang",
+    "provinceSlug": "jawa-tengah",
+    "karya": 20,
+    "love": 28
+   },
+   {
+    "cityName": "Malang",
+    "citySlug": "kab-malang",
+    "provinceSlug": "jawa-timur",
+    "karya": 16,
+    "love": 28
+   },
+   {
+    "cityName": "Klaten",
+    "citySlug": "kab-klaten",
+    "provinceSlug": "jawa-tengah",
+    "karya": 1,
+    "love": 26
+   },
+   {
+    "cityName": "Jakarta Timur",
+    "citySlug": "jakarta-timur",
+    "provinceSlug": "dki-jakarta",
+    "karya": 5,
+    "love": 22
+   },
+   {
+    "cityName": "Palembang",
+    "citySlug": "palembang",
+    "provinceSlug": "sumatera-selatan",
+    "karya": 10,
+    "love": 19
+   },
+   {
+    "cityName": "Sleman",
+    "citySlug": "kab-sleman",
+    "provinceSlug": "di-yogyakarta",
+    "karya": 13,
+    "love": 17
+   },
+   {
+    "cityName": "Tasikmalaya",
+    "citySlug": "kab-tasikmalaya",
+    "provinceSlug": "jawa-barat",
+    "karya": 7,
+    "love": 16
+   },
+   {
+    "cityName": "Yogyakarta",
+    "citySlug": "yogyakarta",
+    "provinceSlug": "di-yogyakarta",
+    "karya": 4,
+    "love": 15
+   },
+   {
+    "cityName": "Bandung",
+    "citySlug": "bandung",
+    "provinceSlug": "jawa-barat",
+    "karya": 13,
+    "love": 13
+   }
+  ],
+  "periode": "semua"
+ },
+ "tahun": {
+  "topKarya": [
+   {
+    "id": "s00_01KX7RWVNCFMCHQWYFCSF5A0VM",
+    "title": "Lakoni",
+    "category": "saas",
+    "imageKey": "s/s00_01KX7RWVNCFMCHQWYFCSF5A0VM.png",
+    "love": 26,
+    "author": "sulth",
+    "cityName": "Klaten"
+   },
+   {
+    "id": "s00_01KXAADMX9JV29A6G49QJTKBMP",
+    "title": "cash‑flow multimodal",
+    "category": "opensource",
+    "imageKey": "s/s00_01KXAADMX9JV29A6G49QJTKBMP.png",
+    "love": 20,
+    "author": "Nur Aulia Muhdir",
+    "cityName": "Makassar"
+   },
+   {
+    "id": "s00_01KYTW35W6QYPZF9TCXJ2PRG6Q",
+    "title": "Dana Kampung - Iuran Kampung",
+    "category": "opensource",
+    "imageKey": "s/s00_01KYTW35W6QYPZF9TCXJ2PRG6Q.jpg",
+    "love": 10,
+    "author": "Heri",
+    "cityName": "Sleman"
+   },
+   {
+    "id": "s00_01KXZTASRM2FWEBQJ5KMWW606P",
+    "title": "silong - notion x obsidian clone",
+    "category": "opensource",
+    "imageKey": "s/s00_01KXZTASRM2FWEBQJ5KMWW606P.jpg",
+    "love": 10,
+    "author": "rahman",
+    "cityName": "Jakarta Timur"
+   },
+   {
+    "id": "s00_01KXCXGYVQAW0Y6PSQ00R0EGQ6",
+    "title": "EduCraft",
+    "category": "produk",
+    "imageKey": "s/s00_01KXCXGYVQAW0Y6PSQ00R0EGQ6.jpg",
+    "love": 9,
+    "author": "PareanomDigital",
+    "cityName": "Yogyakarta"
+   },
+   {
+    "id": "s00_01M142F4YJ09AXW34E5K3T2ZFY",
+    "title": "Tes Keterampilan Berhitung Dasar",
+    "category": "produk",
+    "imageKey": "s/s00_01M142F4YJ09AXW34E5K3T2ZFY.jpg",
+    "love": 7,
+    "author": "Adems",
+    "cityName": "Semarang"
+   },
+   {
+    "id": "s00_01KXZM1C7M66Q4N4ZC2EBM0BKE",
+    "title": "MSO",
+    "category": "opensource",
+    "imageKey": "s/s00_01KXZM1C7M66Q4N4ZC2EBM0BKE.jpg",
+    "love": 7,
+    "author": "rahman",
+    "cityName": "Jakarta Timur"
+   },
+   {
+    "id": "s00_01KY4PSV4HFK67X0WDY3KX0MNG",
+    "title": "Konsulpajak-ai.com  (Konsultasi Pajak Berbasis AI )",
+    "category": "web",
+    "imageKey": "s/s00_01KY4PSV4HFK67X0WDY3KX0MNG-MYR7aA.jpg",
+    "love": 6,
+    "author": "Konsulpajak-ai.com",
+    "cityName": "Makassar"
+   },
+   {
+    "id": "s00_01KX0DWADZ5EKJ11KGTX9TRVG8",
+    "title": "dikasihUP Creator Toolkit",
+    "category": "tools",
+    "imageKey": "s/s00_01KX0DWADZ5EKJ11KGTX9TRVG8.png",
+    "love": 6,
+    "author": "rahmad",
+    "cityName": "Makassar"
+   },
+   {
+    "id": "s00_01M1RWVK1Q3MWHDVFZ7CAX4NH3",
+    "title": "PyWizard: The Magic Syntax",
+    "category": "lainnya",
+    "imageKey": "s/s00_01M1RWVK1Q3MWHDVFZ7CAX4NH3.jpg",
+    "love": 5,
+    "author": "MayoiSiggy",
+    "cityName": "Sukoharjo"
+   }
+  ],
+  "topBuilder": [
+   {
+    "memberId": "s00_01KX7R0YM2Y2QEH0DE41R79AXM",
+    "author": "sulth",
+    "cityName": "Klaten",
+    "karya": 1,
+    "love": 26
+   },
+   {
+    "memberId": "s00_01KWRFQVJTS4C02767YQ85QVTN",
+    "author": "Ananta Satriya",
+    "cityName": "Malang",
+    "karya": 6,
+    "love": 25
+   },
+   {
+    "memberId": "s00_01KX2Y0F1Y5V9GJJS1E4RRN7RH",
+    "author": "rahman",
+    "cityName": "Jakarta Timur",
+    "karya": 4,
+    "love": 21
+   },
+   {
+    "memberId": "s00_01KXA9RAKWZVMNTVX71GGGEKHD",
+    "author": "Nur Aulia Muhdir",
+    "cityName": "Makassar",
+    "karya": 1,
+    "love": 20
+   },
+   {
+    "memberId": "s00_01KXPRZ4VYAERX427M5A0D77R3",
+    "author": "Roy",
+    "cityName": "Semarang",
+    "karya": 3,
+    "love": 13
+   },
+   {
+    "memberId": "s00_01KY624PBRC5S9RW0DN0NF50GV",
+    "author": "popokbayi",
+    "cityName": "Blitar",
+    "karya": 6,
+    "love": 12
+   },
+   {
+    "memberId": "s00_01KWSDYF5DBT8C4W9Z8YVKSBNC",
+    "author": "Zml",
+    "cityName": "Sumedang",
+    "karya": 4,
+    "love": 10
+   },
+   {
+    "memberId": "s00_01KX0D7Q8VND2M8B06SRRXCS67",
+    "author": "rahmad",
+    "cityName": "Makassar",
+    "karya": 2,
+    "love": 10
+   },
+   {
+    "memberId": "s00_01KXCXAJN5ZAZ050X26ABK1QJX",
+    "author": "PareanomDigital",
+    "cityName": "Yogyakarta",
+    "karya": 2,
+    "love": 10
+   },
+   {
+    "memberId": "s00_01KXF9GMC5M6M55Y74S6ZPKHGN",
+    "author": "Heri",
+    "cityName": "Sleman",
+    "karya": 1,
+    "love": 10
+   }
+  ],
+  "topKota": [
+   {
+    "cityName": "Makassar",
+    "citySlug": "makassar",
+    "provinceSlug": "sulawesi-selatan",
+    "karya": 13,
+    "love": 51
+   },
+   {
+    "cityName": "Semarang",
+    "citySlug": "semarang",
+    "provinceSlug": "jawa-tengah",
+    "karya": 20,
+    "love": 28
+   },
+   {
+    "cityName": "Malang",
+    "citySlug": "kab-malang",
+    "provinceSlug": "jawa-timur",
+    "karya": 16,
+    "love": 28
+   },
+   {
+    "cityName": "Klaten",
+    "citySlug": "kab-klaten",
+    "provinceSlug": "jawa-tengah",
+    "karya": 1,
+    "love": 26
+   },
+   {
+    "cityName": "Jakarta Timur",
+    "citySlug": "jakarta-timur",
+    "provinceSlug": "dki-jakarta",
+    "karya": 5,
+    "love": 22
+   },
+   {
+    "cityName": "Palembang",
+    "citySlug": "palembang",
+    "provinceSlug": "sumatera-selatan",
+    "karya": 10,
+    "love": 19
+   },
+   {
+    "cityName": "Sleman",
+    "citySlug": "kab-sleman",
+    "provinceSlug": "di-yogyakarta",
+    "karya": 13,
+    "love": 17
+   },
+   {
+    "cityName": "Tasikmalaya",
+    "citySlug": "kab-tasikmalaya",
+    "provinceSlug": "jawa-barat",
+    "karya": 7,
+    "love": 16
+   },
+   {
+    "cityName": "Yogyakarta",
+    "citySlug": "yogyakarta",
+    "provinceSlug": "di-yogyakarta",
+    "karya": 4,
+    "love": 15
+   },
+   {
+    "cityName": "Bandung",
+    "citySlug": "bandung",
+    "provinceSlug": "jawa-barat",
+    "karya": 13,
+    "love": 13
+   }
+  ],
+  "periode": "semua"
+ },
+ "bulan": {
+  "topKarya": [
+   {
+    "id": "s00_01M1RWVK1Q3MWHDVFZ7CAX4NH3",
+    "title": "PyWizard: The Magic Syntax",
+    "category": "lainnya",
+    "imageKey": "s/s00_01M1RWVK1Q3MWHDVFZ7CAX4NH3.jpg",
+    "love": 5,
+    "author": "MayoiSiggy",
+    "cityName": "Sukoharjo"
+   },
+   {
+    "id": "s00_01KXAADMX9JV29A6G49QJTKBMP",
+    "title": "cash‑flow multimodal",
+    "category": "opensource",
+    "imageKey": "s/s00_01KXAADMX9JV29A6G49QJTKBMP.png",
+    "love": 4,
+    "author": "Nur Aulia Muhdir",
+    "cityName": "Makassar"
+   },
+   {
+    "id": "s00_01KX7RWVNCFMCHQWYFCSF5A0VM",
+    "title": "Lakoni",
+    "category": "saas",
+    "imageKey": "s/s00_01KX7RWVNCFMCHQWYFCSF5A0VM.png",
+    "love": 3,
+    "author": "sulth",
+    "cityName": "Klaten"
+   },
+   {
+    "id": "s00_01KYTW35W6QYPZF9TCXJ2PRG6Q",
+    "title": "Dana Kampung - Iuran Kampung",
+    "category": "opensource",
+    "imageKey": "s/s00_01KYTW35W6QYPZF9TCXJ2PRG6Q.jpg",
+    "love": 2,
+    "author": "Heri",
+    "cityName": "Sleman"
+   },
+   {
+    "id": "s00_01KY74S93EJ3DD6RSVQF7ZSZGY",
+    "title": "Nouverse Flow (Hosting n8n)",
+    "category": "saas",
+    "imageKey": "s/s00_01KY74S93EJ3DD6RSVQF7ZSZGY.jpg",
+    "love": 2,
+    "author": "Gading",
+    "cityName": "Palembang"
+   },
+   {
+    "id": "s00_01KXCWGMSE7FG1Q1VQA3P6YYHW",
+    "title": "QRIS Converter",
+    "category": "tools",
+    "imageKey": "s/s00_01KXCWGMSE7FG1Q1VQA3P6YYHW.jpg",
+    "love": 2,
+    "author": "Bion",
+    "cityName": "Surakarta"
+   },
+   {
+    "id": "s00_01M1XCMWVT5CQDEZ5466XP4611",
+    "title": "website iddevops.com",
+    "category": "web",
+    "imageKey": "s/s00_01M1XCMWVT5CQDEZ5466XP4611.jpg",
+    "love": 1,
+    "author": "Wawan Rachmanto",
+    "cityName": "Malang"
+   },
+   {
+    "id": "s00_01M1R84B3Y25Z9XDW5X0D4B4GJ",
+    "title": "Belajar Matematika Dengan Games",
+    "category": "opensource",
+    "imageKey": "s/s00_01M1R84B3Y25Z9XDW5X0D4B4GJ.jpg",
+    "love": 1,
+    "author": "honey_ber",
+    "cityName": "Surakarta"
+   },
+   {
+    "id": "s00_01M1NW589P202R19MZY20B2X22",
+    "title": "PASBISE",
+    "category": "model",
+    "imageKey": "s/s00_01M1NW589P202R19MZY20B2X22.jpg",
+    "love": 1,
+    "author": "DepodTech",
+    "cityName": "Jombang"
+   },
+   {
+    "id": "s00_01M1KV3TQYQ30JSCK9Y8GHNXSJ",
+    "title": "imgSoul",
+    "category": "web",
+    "imageKey": "s/s00_01M1KV3TQYQ30JSCK9Y8GHNXSJ.jpg",
+    "love": 1,
+    "author": "BROHAN",
+    "cityName": "Nganjuk"
+   }
+  ],
+  "topBuilder": [
+   {
+    "memberId": "s00_01M1RABZ6YSKKJW1QY8NCM8V27",
+    "author": "MayoiSiggy",
+    "cityName": "Sukoharjo",
+    "karya": 1,
+    "love": 5
+   },
+   {
+    "memberId": "s00_01KXA9RAKWZVMNTVX71GGGEKHD",
+    "author": "Nur Aulia Muhdir",
+    "cityName": "Makassar",
+    "karya": 1,
+    "love": 4
+   },
+   {
+    "memberId": "s00_01KX7R0YM2Y2QEH0DE41R79AXM",
+    "author": "sulth",
+    "cityName": "Klaten",
+    "karya": 1,
+    "love": 3
+   },
+   {
+    "memberId": "s00_01KZJDEH99V6TGQWGGXCXHSZQT",
+    "author": "Rezhacozy",
+    "cityName": "Wonogiri",
+    "karya": 2,
+    "love": 2
+   },
+   {
+    "memberId": "s00_01M1GC65XV6ZFKT8B9HQKD2749",
+    "author": "Joko Endriyanto",
+    "cityName": "Sukoharjo",
+    "karya": 2,
+    "love": 2
+   },
+   {
+    "memberId": "s00_01KXCWBVSVS9T5G9SYJ7T7215J",
+    "author": "Bion",
+    "cityName": "Surakarta",
+    "karya": 1,
+    "love": 2
+   },
+   {
+    "memberId": "s00_01KXF9GMC5M6M55Y74S6ZPKHGN",
+    "author": "Heri",
+    "cityName": "Sleman",
+    "karya": 1,
+    "love": 2
+   },
+   {
+    "memberId": "s00_01KY54WEXBQC0PR53AX9B2Z95Y",
+    "author": "Gading",
+    "cityName": "Palembang",
+    "karya": 1,
+    "love": 2
+   },
+   {
+    "memberId": "s00_01KWRFQVJTS4C02767YQ85QVTN",
+    "author": "Ananta Satriya",
+    "cityName": "Malang",
+    "karya": 1,
+    "love": 1
+   },
+   {
+    "memberId": "s00_01KX1RTGRZWHDPD1YDTZWTNWGV",
+    "author": "Aswandi",
+    "cityName": "Bekasi",
+    "karya": 1,
+    "love": 1
+   }
+  ],
+  "topKota": [
+   {
+    "cityName": "Sukoharjo",
+    "citySlug": "kab-sukoharjo",
+    "provinceSlug": "jawa-tengah",
+    "karya": 3,
+    "love": 7
+   },
+   {
+    "cityName": "Makassar",
+    "citySlug": "makassar",
+    "provinceSlug": "sulawesi-selatan",
+    "karya": 1,
+    "love": 4
+   },
+   {
+    "cityName": "Surakarta",
+    "citySlug": "surakarta",
+    "provinceSlug": "jawa-tengah",
+    "karya": 2,
+    "love": 3
+   },
+   {
+    "cityName": "Palembang",
+    "citySlug": "palembang",
+    "provinceSlug": "sumatera-selatan",
+    "karya": 2,
+    "love": 3
+   },
+   {
+    "cityName": "Klaten",
+    "citySlug": "kab-klaten",
+    "provinceSlug": "jawa-tengah",
+    "karya": 1,
+    "love": 3
+   },
+   {
+    "cityName": "Wonogiri",
+    "citySlug": "kab-wonogiri",
+    "provinceSlug": "jawa-tengah",
+    "karya": 2,
+    "love": 2
+   },
+   {
+    "cityName": "Semarang",
+    "citySlug": "semarang",
+    "provinceSlug": "jawa-tengah",
+    "karya": 2,
+    "love": 2
+   },
+   {
+    "cityName": "Malang",
+    "citySlug": "kab-malang",
+    "provinceSlug": "jawa-timur",
+    "karya": 2,
+    "love": 2
+   },
+   {
+    "cityName": "Sleman",
+    "citySlug": "kab-sleman",
+    "provinceSlug": "di-yogyakarta",
+    "karya": 1,
+    "love": 2
+   },
+   {
+    "cityName": "Bekasi",
+    "citySlug": "bekasi",
+    "provinceSlug": "jawa-barat",
+    "karya": 1,
+    "love": 1
+   }
+  ],
+  "periode": "bulan"
+ },
+ "minggu": {
+  "topKarya": [
+   {
+    "id": "s00_01M1XCMWVT5CQDEZ5466XP4611",
+    "title": "website iddevops.com",
+    "category": "web",
+    "imageKey": "s/s00_01M1XCMWVT5CQDEZ5466XP4611.jpg",
+    "love": 1,
+    "author": "Wawan Rachmanto",
+    "cityName": "Malang"
+   },
+   {
+    "id": "s00_01KYTW35W6QYPZF9TCXJ2PRG6Q",
+    "title": "Dana Kampung - Iuran Kampung",
+    "category": "opensource",
+    "imageKey": "s/s00_01KYTW35W6QYPZF9TCXJ2PRG6Q.jpg",
+    "love": 1,
+    "author": "Heri",
+    "cityName": "Sleman"
+   },
+   {
+    "id": "s00_01KYSKTVZHG4HSJP48BBF1P8RZ",
+    "title": "Onyx Terminal",
+    "category": "opensource",
+    "imageKey": "s/s00_01KYSKTVZHG4HSJP48BBF1P8RZ.jpg",
+    "love": 1,
+    "author": "arblok",
+    "cityName": "Tasikmalaya"
+   },
+   {
+    "id": "s00_01KY2024VDWX9731QYT490K6CA",
+    "title": "Dental Clinic Information System",
+    "category": "web",
+    "imageKey": "s/s00_01KY2024VDWX9731QYT490K6CA.jpg",
+    "love": 1,
+    "author": "Ananta Satriya",
+    "cityName": "Malang"
+   },
+   {
+    "id": "s00_01KXAADMX9JV29A6G49QJTKBMP",
+    "title": "cash‑flow multimodal",
+    "category": "opensource",
+    "imageKey": "s/s00_01KXAADMX9JV29A6G49QJTKBMP.png",
+    "love": 1,
+    "author": "Nur Aulia Muhdir",
+    "cityName": "Makassar"
+   }
+  ],
+  "topBuilder": [
+   {
+    "memberId": "s00_01KWRFQVJTS4C02767YQ85QVTN",
+    "author": "Ananta Satriya",
+    "cityName": "Malang",
+    "karya": 1,
+    "love": 1
+   },
+   {
+    "memberId": "s00_01KXA9RAKWZVMNTVX71GGGEKHD",
+    "author": "Nur Aulia Muhdir",
+    "cityName": "Makassar",
+    "karya": 1,
+    "love": 1
+   },
+   {
+    "memberId": "s00_01KXF9GMC5M6M55Y74S6ZPKHGN",
+    "author": "Heri",
+    "cityName": "Sleman",
+    "karya": 1,
+    "love": 1
+   },
+   {
+    "memberId": "s00_01KYS9Z59AEQGB4BHK7PEZ0SD0",
+    "author": "arblok",
+    "cityName": "Tasikmalaya",
+    "karya": 1,
+    "love": 1
+   },
+   {
+    "memberId": "s00_01M0ECHFS8FTKD0R4FRRGXENFF",
+    "author": "Wawan Rachmanto",
+    "cityName": "Malang",
+    "karya": 1,
+    "love": 1
+   }
+  ],
+  "topKota": [
+   {
+    "cityName": "Malang",
+    "citySlug": "kab-malang",
+    "provinceSlug": "jawa-timur",
+    "karya": 2,
+    "love": 2
+   },
+   {
+    "cityName": "Sleman",
+    "citySlug": "kab-sleman",
+    "provinceSlug": "di-yogyakarta",
+    "karya": 1,
+    "love": 1
+   },
+   {
+    "cityName": "Tasikmalaya",
+    "citySlug": "kab-tasikmalaya",
+    "provinceSlug": "jawa-barat",
+    "karya": 1,
+    "love": 1
+   },
+   {
+    "cityName": "Makassar",
+    "citySlug": "makassar",
+    "provinceSlug": "sulawesi-selatan",
+    "karya": 1,
+    "love": 1
+   }
+  ],
+  "periode": "minggu"
+ },
+ "hari": {
+  "topKarya": [
+   {
+    "id": "s00_01KX7RWVNCFMCHQWYFCSF5A0VM",
+    "title": "Lakoni",
+    "category": "saas",
+    "imageKey": "s/s00_01KX7RWVNCFMCHQWYFCSF5A0VM.png",
+    "love": 26,
+    "author": "sulth",
+    "cityName": "Klaten"
+   },
+   {
+    "id": "s00_01KXAADMX9JV29A6G49QJTKBMP",
+    "title": "cash‑flow multimodal",
+    "category": "opensource",
+    "imageKey": "s/s00_01KXAADMX9JV29A6G49QJTKBMP.png",
+    "love": 20,
+    "author": "Nur Aulia Muhdir",
+    "cityName": "Makassar"
+   },
+   {
+    "id": "s00_01KYTW35W6QYPZF9TCXJ2PRG6Q",
+    "title": "Dana Kampung - Iuran Kampung",
+    "category": "opensource",
+    "imageKey": "s/s00_01KYTW35W6QYPZF9TCXJ2PRG6Q.jpg",
+    "love": 10,
+    "author": "Heri",
+    "cityName": "Sleman"
+   },
+   {
+    "id": "s00_01KXZTASRM2FWEBQJ5KMWW606P",
+    "title": "silong - notion x obsidian clone",
+    "category": "opensource",
+    "imageKey": "s/s00_01KXZTASRM2FWEBQJ5KMWW606P.jpg",
+    "love": 10,
+    "author": "rahman",
+    "cityName": "Jakarta Timur"
+   },
+   {
+    "id": "s00_01KXCXGYVQAW0Y6PSQ00R0EGQ6",
+    "title": "EduCraft",
+    "category": "produk",
+    "imageKey": "s/s00_01KXCXGYVQAW0Y6PSQ00R0EGQ6.jpg",
+    "love": 9,
+    "author": "PareanomDigital",
+    "cityName": "Yogyakarta"
+   },
+   {
+    "id": "s00_01M142F4YJ09AXW34E5K3T2ZFY",
+    "title": "Tes Keterampilan Berhitung Dasar",
+    "category": "produk",
+    "imageKey": "s/s00_01M142F4YJ09AXW34E5K3T2ZFY.jpg",
+    "love": 7,
+    "author": "Adems",
+    "cityName": "Semarang"
+   },
+   {
+    "id": "s00_01KXZM1C7M66Q4N4ZC2EBM0BKE",
+    "title": "MSO",
+    "category": "opensource",
+    "imageKey": "s/s00_01KXZM1C7M66Q4N4ZC2EBM0BKE.jpg",
+    "love": 7,
+    "author": "rahman",
+    "cityName": "Jakarta Timur"
+   },
+   {
+    "id": "s00_01KY4PSV4HFK67X0WDY3KX0MNG",
+    "title": "Konsulpajak-ai.com  (Konsultasi Pajak Berbasis AI )",
+    "category": "web",
+    "imageKey": "s/s00_01KY4PSV4HFK67X0WDY3KX0MNG-MYR7aA.jpg",
+    "love": 6,
+    "author": "Konsulpajak-ai.com",
+    "cityName": "Makassar"
+   },
+   {
+    "id": "s00_01KX0DWADZ5EKJ11KGTX9TRVG8",
+    "title": "dikasihUP Creator Toolkit",
+    "category": "tools",
+    "imageKey": "s/s00_01KX0DWADZ5EKJ11KGTX9TRVG8.png",
+    "love": 6,
+    "author": "rahmad",
+    "cityName": "Makassar"
+   },
+   {
+    "id": "s00_01M1RWVK1Q3MWHDVFZ7CAX4NH3",
+    "title": "PyWizard: The Magic Syntax",
+    "category": "lainnya",
+    "imageKey": "s/s00_01M1RWVK1Q3MWHDVFZ7CAX4NH3.jpg",
+    "love": 5,
+    "author": "MayoiSiggy",
+    "cityName": "Sukoharjo"
+   }
+  ],
+  "topBuilder": [
+   {
+    "memberId": "s00_01KX7R0YM2Y2QEH0DE41R79AXM",
+    "author": "sulth",
+    "cityName": "Klaten",
+    "karya": 1,
+    "love": 26
+   },
+   {
+    "memberId": "s00_01KWRFQVJTS4C02767YQ85QVTN",
+    "author": "Ananta Satriya",
+    "cityName": "Malang",
+    "karya": 6,
+    "love": 25
+   },
+   {
+    "memberId": "s00_01KX2Y0F1Y5V9GJJS1E4RRN7RH",
+    "author": "rahman",
+    "cityName": "Jakarta Timur",
+    "karya": 4,
+    "love": 21
+   },
+   {
+    "memberId": "s00_01KXA9RAKWZVMNTVX71GGGEKHD",
+    "author": "Nur Aulia Muhdir",
+    "cityName": "Makassar",
+    "karya": 1,
+    "love": 20
+   },
+   {
+    "memberId": "s00_01KXPRZ4VYAERX427M5A0D77R3",
+    "author": "Roy",
+    "cityName": "Semarang",
+    "karya": 3,
+    "love": 13
+   },
+   {
+    "memberId": "s00_01KY624PBRC5S9RW0DN0NF50GV",
+    "author": "popokbayi",
+    "cityName": "Blitar",
+    "karya": 6,
+    "love": 12
+   },
+   {
+    "memberId": "s00_01KWSDYF5DBT8C4W9Z8YVKSBNC",
+    "author": "Zml",
+    "cityName": "Sumedang",
+    "karya": 4,
+    "love": 10
+   },
+   {
+    "memberId": "s00_01KX0D7Q8VND2M8B06SRRXCS67",
+    "author": "rahmad",
+    "cityName": "Makassar",
+    "karya": 2,
+    "love": 10
+   },
+   {
+    "memberId": "s00_01KXCXAJN5ZAZ050X26ABK1QJX",
+    "author": "PareanomDigital",
+    "cityName": "Yogyakarta",
+    "karya": 2,
+    "love": 10
+   },
+   {
+    "memberId": "s00_01KXF9GMC5M6M55Y74S6ZPKHGN",
+    "author": "Heri",
+    "cityName": "Sleman",
+    "karya": 1,
+    "love": 10
+   }
+  ],
+  "topKota": [
+   {
+    "cityName": "Makassar",
+    "citySlug": "makassar",
+    "provinceSlug": "sulawesi-selatan",
+    "karya": 13,
+    "love": 51
+   },
+   {
+    "cityName": "Semarang",
+    "citySlug": "semarang",
+    "provinceSlug": "jawa-tengah",
+    "karya": 20,
+    "love": 28
+   },
+   {
+    "cityName": "Malang",
+    "citySlug": "kab-malang",
+    "provinceSlug": "jawa-timur",
+    "karya": 16,
+    "love": 28
+   },
+   {
+    "cityName": "Klaten",
+    "citySlug": "kab-klaten",
+    "provinceSlug": "jawa-tengah",
+    "karya": 1,
+    "love": 26
+   },
+   {
+    "cityName": "Jakarta Timur",
+    "citySlug": "jakarta-timur",
+    "provinceSlug": "dki-jakarta",
+    "karya": 5,
+    "love": 22
+   },
+   {
+    "cityName": "Palembang",
+    "citySlug": "palembang",
+    "provinceSlug": "sumatera-selatan",
+    "karya": 10,
+    "love": 19
+   },
+   {
+    "cityName": "Sleman",
+    "citySlug": "kab-sleman",
+    "provinceSlug": "di-yogyakarta",
+    "karya": 13,
+    "love": 17
+   },
+   {
+    "cityName": "Tasikmalaya",
+    "citySlug": "kab-tasikmalaya",
+    "provinceSlug": "jawa-barat",
+    "karya": 7,
+    "love": 16
+   },
+   {
+    "cityName": "Yogyakarta",
+    "citySlug": "yogyakarta",
+    "provinceSlug": "di-yogyakarta",
+    "karya": 4,
+    "love": 15
+   },
+   {
+    "cityName": "Bandung",
+    "citySlug": "bandung",
+    "provinceSlug": "jawa-barat",
+    "karya": 13,
+    "love": 13
+   }
+  ],
+  "periode": "semua"
+ }
+}

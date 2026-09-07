@@ -9,7 +9,7 @@
   "city": "Klaten",
   "province": "Jawa Tengah",
   "joined": "Jul 2026",
-  "totalLove": 25,
+  "totalLove": 26,
   "karyaCount": 1,
   "verified": true,
   "badges": [
@@ -19,7 +19,7 @@
    "TOP KOTA",
    "TOP 10",
    "DICINTAI",
-   "25"
+   "26"
   ]
  },
  {
@@ -37,7 +37,7 @@
   "city": "Malang",
   "province": "Jawa Timur",
   "joined": "Jul 2026",
-  "totalLove": 24,
+  "totalLove": 25,
   "karyaCount": 6,
   "verified": true,
   "badges": [
@@ -46,7 +46,8 @@
    "PIONEER",
    "TOP KOTA",
    "TOP 10",
-   "4",
+   "DICINTAI",
+   "5",
    "4",
    "4",
    "4",
@@ -91,7 +92,7 @@
   "city": "Makassar",
   "province": "Sulawesi Selatan",
   "joined": "Jul 2026",
-  "totalLove": 18,
+  "totalLove": 20,
   "karyaCount": 1,
   "verified": true,
   "badges": [
@@ -99,7 +100,7 @@
    "LEVEL 5 KUIS AI",
    "TOP KOTA",
    "TOP 10",
-   "18"
+   "20"
   ]
  },
  {
@@ -240,14 +241,14 @@
   "city": "Sleman",
   "province": "DI Yogyakarta",
   "joined": "Jul 2026",
-  "totalLove": 9,
+  "totalLove": 10,
   "karyaCount": 1,
   "verified": true,
   "badges": [
    "TIER 2 · Penjelajah",
    "TOP KOTA",
    "TOP 10",
-   "9"
+   "10"
   ]
  },
  {
@@ -271,6 +272,32 @@
    "4",
    "2",
    "2"
+  ]
+ },
+ {
+  "memberId": "s00_01KYS9Z59AEQGB4BHK7PEZ0SD0",
+  "page": "https://aiclub.id/builder/s00_01KYS9Z59AEQGB4BHK7PEZ0SD0",
+  "karyaIds": [
+   "s00_01KYSC48KZWZVV5GZZHBN821SA",
+   "s00_01KYSKM0GTCF62NKKHWJ12Y0VX",
+   "s00_01KYSKTVZHG4HSJP48BBF1P8RZ",
+   "s00_01KYSMCRXY3V6Q99REJGBAZHQQ"
+  ],
+  "name": "arblok",
+  "city": "Tasikmalaya",
+  "province": "Jawa Barat",
+  "joined": "Jul 2026",
+  "totalLove": 8,
+  "karyaCount": 4,
+  "verified": true,
+  "badges": [
+   "TIER 3 · Penggerak",
+   "LEVEL 5 KUIS AI",
+   "TOP KOTA",
+   "5",
+   "1",
+   "1",
+   "1"
   ]
  },
  {
@@ -314,31 +341,6 @@
    "TOP KOTA",
    "4",
    "2",
-   "1"
-  ]
- },
- {
-  "memberId": "s00_01KYS9Z59AEQGB4BHK7PEZ0SD0",
-  "page": "https://aiclub.id/builder/s00_01KYS9Z59AEQGB4BHK7PEZ0SD0",
-  "karyaIds": [
-   "s00_01KYSC48KZWZVV5GZZHBN821SA",
-   "s00_01KYSKM0GTCF62NKKHWJ12Y0VX",
-   "s00_01KYSKTVZHG4HSJP48BBF1P8RZ",
-   "s00_01KYSMCRXY3V6Q99REJGBAZHQQ"
-  ],
-  "name": "arblok",
-  "city": "Tasikmalaya",
-  "province": "Jawa Barat",
-  "joined": "Jul 2026",
-  "totalLove": 7,
-  "karyaCount": 4,
-  "verified": true,
-  "badges": [
-   "TIER 3 · Penggerak",
-   "LEVEL 5 KUIS AI",
-   "4",
-   "1",
-   "1",
    "1"
   ]
  },
@@ -2014,9 +2016,28 @@
   "karyaCount": 1,
   "verified": true,
   "badges": [
-   "TIER 2 · Penjelajah",
+   "TIER 3 · Penggerak",
    "LEVEL 3 KUIS AI",
    "TOP KOTA",
+   "1"
+  ]
+ },
+ {
+  "memberId": "s00_01M0ECHFS8FTKD0R4FRRGXENFF",
+  "page": "https://aiclub.id/builder/s00_01M0ECHFS8FTKD0R4FRRGXENFF",
+  "karyaIds": [
+   "s00_01M1XCMWVT5CQDEZ5466XP4611"
+  ],
+  "name": "Wawan Rachmanto",
+  "city": "Malang",
+  "province": "Jawa Timur",
+  "joined": "Agu 2026",
+  "totalLove": 1,
+  "karyaCount": 1,
+  "verified": true,
+  "badges": [
+   "TIER 2 · Penjelajah",
+   "LEVEL 5 KUIS AI",
    "1"
   ]
  },
@@ -2991,7 +3012,7 @@
   "karyaCount": 2,
   "verified": true,
   "badges": [
-   "TIER 2 · Penjelajah",
+   "TIER 3 · Penggerak",
    "LEVEL 5 KUIS AI",
    "0",
    "0"
@@ -3013,6 +3034,26 @@
   "badges": [
    "TIER 2 · Penjelajah",
    "LEVEL 5 KUIS AI",
+   "0"
+  ]
+ },
+ {
+  "memberId": "s00_01M1N2CJR25NH9P9K04JZC36VG",
+  "page": "https://aiclub.id/builder/s00_01M1N2CJR25NH9P9K04JZC36VG",
+  "karyaIds": [
+   "s00_01M1TDAEZBMXY7YJYDQHTZHR51"
+  ],
+  "name": "BosPK",
+  "city": "Kudus",
+  "province": "Jawa Tengah",
+  "joined": "Sep 2026",
+  "totalLove": 0,
+  "karyaCount": 1,
+  "verified": true,
+  "badges": [
+   "TIER 2 · Penjelajah",
+   "LEVEL 3 KUIS AI",
+   "TOP KOTA",
    "0"
   ]
  }
