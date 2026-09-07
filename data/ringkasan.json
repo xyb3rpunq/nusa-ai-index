@@ -1,0 +1,441 @@
+{
+ "totalKarya": 242,
+ "totalLove": 371,
+ "hidup": 223,
+ "mati": 19,
+ "perKategori": [
+  [
+   "web",
+   65
+  ],
+  [
+   "saas",
+   60
+  ],
+  [
+   "opensource",
+   44
+  ],
+  [
+   "tools",
+   28
+  ],
+  [
+   "produk",
+   27
+  ],
+  [
+   "lainnya",
+   15
+  ],
+  [
+   "model",
+   3
+  ]
+ ],
+ "perKota": [
+  [
+   "Bekasi",
+   13
+  ],
+  [
+   "Bandung",
+   11
+  ],
+  [
+   "Makassar",
+   10
+  ],
+  [
+   "Semarang",
+   10
+  ],
+  [
+   "Tasikmalaya",
+   9
+  ],
+  [
+   "Tangerang",
+   9
+  ],
+  [
+   "Malang",
+   8
+  ],
+  [
+   "Cimahi",
+   8
+  ],
+  [
+   "Depok",
+   7
+  ],
+  [
+   "Palembang",
+   7
+  ],
+  [
+   "Sleman",
+   6
+  ],
+  [
+   "Gowa",
+   6
+  ],
+  [
+   "Blitar",
+   6
+  ],
+  [
+   "Bogor",
+   6
+  ],
+  [
+   "Grobogan",
+   6
+  ],
+  [
+   "Tangerang Selatan",
+   6
+  ],
+  [
+   "Jakarta Timur",
+   5
+  ],
+  [
+   "Bantul",
+   5
+  ],
+  [
+   "Jakarta Selatan",
+   5
+  ],
+  [
+   "Karawang",
+   5
+  ]
+ ],
+ "perProvinsi": [
+  [
+   "Jawa Barat",
+   68
+  ],
+  [
+   "Jawa Tengah",
+   33
+  ],
+  [
+   "Jawa Timur",
+   33
+  ],
+  [
+   "DKI Jakarta",
+   20
+  ],
+  [
+   "Sulawesi Selatan",
+   18
+  ],
+  [
+   "DI Yogyakarta",
+   15
+  ],
+  [
+   "Banten",
+   15
+  ],
+  [
+   "Sumatera Selatan",
+   8
+  ],
+  [
+   "Kalimantan Barat",
+   8
+  ],
+  [
+   "Lampung",
+   4
+  ],
+  [
+   "Kalimantan Selatan",
+   3
+  ],
+  [
+   "Kepulauan Riau",
+   3
+  ],
+  [
+   "Sulawesi Barat",
+   3
+  ],
+  [
+   "Kalimantan Tengah",
+   2
+  ],
+  [
+   "Kalimantan Utara",
+   2
+  ],
+  [
+   "Bali",
+   1
+  ],
+  [
+   "Sumatera Barat",
+   1
+  ],
+  [
+   "Nusa Tenggara Timur",
+   1
+  ],
+  [
+   "Bengkulu",
+   1
+  ],
+  [
+   "Kalimantan Timur",
+   1
+  ],
+  [
+   "Sumatera Utara",
+   1
+  ],
+  [
+   "Sulawesi Utara",
+   1
+  ]
+ ],
+ "perPlatform": [
+  [
+   "Domain sendiri",
+   122
+  ],
+  [
+   "Domain .my.id",
+   23
+  ],
+  [
+   "GitHub repo",
+   20
+  ],
+  [
+   "Vercel",
+   18
+  ],
+  [
+   "Domain .web.id",
+   11
+  ],
+  [
+   "Netlify",
+   9
+  ],
+  [
+   "Lynk.id (jual produk)",
+   8
+  ],
+  [
+   "Play Store",
+   5
+  ],
+  [
+   "Domain pemerintah",
+   3
+  ],
+  [
+   "YouTube",
+   3
+  ],
+  [
+   "Domain sekolah",
+   3
+  ],
+  [
+   "Gemini share-link",
+   3
+  ],
+  [
+   "GitHub Pages",
+   2
+  ],
+  [
+   "Firebase",
+   2
+  ],
+  [
+   "Apps Script",
+   2
+  ],
+  [
+   "Lovable",
+   2
+  ],
+  [
+   "MS Store",
+   1
+  ],
+  [
+   "LinkedIn",
+   1
+  ],
+  [
+   "AppSheet",
+   1
+  ],
+  [
+   "Domain kampus",
+   1
+  ],
+  [
+   "Instagram",
+   1
+  ],
+  [
+   "Google Sites",
+   1
+  ]
+ ],
+ "perTema": [
+  [
+   "Lainnya",
+   60
+  ],
+  [
+   "Developer tools / infra",
+   39
+  ],
+  [
+   "Pendidikan / sekolah",
+   34
+  ],
+  [
+   "Konten / marketing AI",
+   27
+  ],
+  [
+   "POS / kasir / inventori",
+   20
+  ],
+  [
+   "CRM / WhatsApp automation",
+   19
+  ],
+  [
+   "Keuangan / akuntansi personal",
+   19
+  ],
+  [
+   "Travel / properti / marketplace",
+   19
+  ],
+  [
+   "Produktivitas personal",
+   18
+  ],
+  [
+   "Game / hiburan / kreatif",
+   13
+  ],
+  [
+   "Data / riset / intelijen",
+   13
+  ],
+  [
+   "Web builder / template / portfolio",
+   13
+  ],
+  [
+   "Pemerintahan / desa / komunitas",
+   12
+  ],
+  [
+   "Web3 / kripto",
+   11
+  ],
+  [
+   "Kesehatan",
+   10
+  ]
+ ],
+ "loveNol": 80,
+ "punyaRepoPublik": 20,
+ "bulanan": [
+  [
+   "2026-07",
+   160
+  ],
+  [
+   "2026-08",
+   64
+  ],
+  [
+   "2026-09",
+   18
+  ]
+ ],
+ "repoTerdeteksi": 20,
+ "repoTotalStars": 162,
+ "klaimOpenSourceTanpaRepo": 27,
+ "topRepo": [
+  {
+   "title": "Clopen",
+   "slug": "myrialabs/clopen",
+   "stars": 41,
+   "love": 0
+  },
+  {
+   "title": "TeleDrive",
+   "slug": "99apps-id/teledrive",
+   "stars": 36,
+   "love": 3
+  },
+  {
+   "title": "Memory Layer AI Agent",
+   "slug": "mrizkiiy04/1Mbrain",
+   "stars": 29,
+   "love": 1
+  },
+  {
+   "title": "hanoman",
+   "slug": "denameidina/hanoman",
+   "stars": 13,
+   "love": 2
+  },
+  {
+   "title": "AWCMS Repository",
+   "slug": "ahliweb/awcms",
+   "stars": 13,
+   "love": 0
+  },
+  {
+   "title": "NesaRouter (Alternative 9Router)",
+   "slug": "99apps-id/nesarouter",
+   "stars": 10,
+   "love": 0
+  },
+  {
+   "title": "Pegasus Tak Terbatas",
+   "slug": "sobri3195/pegasus-tak-terbatas",
+   "stars": 5,
+   "love": 0
+  },
+  {
+   "title": "hyperframes-video-workflow",
+   "slug": "denameidina/hyperframes-video-workflow",
+   "stars": 4,
+   "love": 2
+  },
+  {
+   "title": "cash‑flow multimodal",
+   "slug": "Nurauliamuhdir/I-O-Modal-MoneyMate",
+   "stars": 3,
+   "love": 18
+  },
+  {
+   "title": "FEATURE MAP",
+   "slug": "ade-syofyan/feature-map",
+   "stars": 2,
+   "love": 1
+  }
+ ]
+}

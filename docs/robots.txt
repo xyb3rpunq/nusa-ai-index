@@ -1,0 +1,9 @@
+# Indeks ini boleh diindeks mesin pencari.
+# Berkas data tidak boleh diambil sebagai bahan latih model —
+# sumbernya (aiclub.id) memasang Content-Signal ai-train=no.
+User-agent: *
+Content-Signal: search=yes, ai-train=no, use=reference
+Allow: /
+Disallow: /data/
+
+Sitemap: https://xyb3rpunq.github.io/nusa-ai-index/sitemap.xml

@@ -1,0 +1,73 @@
+name: refresh & deploy
+
+# Tarik ulang data dari aiclub.id, cek tautan mana yang sudah mati,
+# jalankan seluruh uji, rakit ulang situs, lalu terbitkan ke GitHub Pages.
+on:
+  schedule:
+    - cron: '17 21 * * *'   # 04:17 WIB tiap hari
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  bangun:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Tarik ulang data dari aiclub.id
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python tools/scrape_aiclub.py
+          python tools/analisis.py
+          python tools/laporan.py || echo "statistik GitHub dilewati"
+          node src/sanitize.js
+
+      - name: Uji
+        run: node --test test/*.test.js
+
+      - name: Rakit situs
+        run: node src/build.js
+
+      - name: Simpan data yang baru ditarik
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data docs
+          git diff --staged --quiet || git commit -m "data: refresh otomatis $(date -u +%Y-%m-%d)"
+          git push
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  terbitkan:
+    needs: bangun
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,17 @@
+{
+  "name": "nusa-ai-index",
+  "version": "1.0.0",
+  "description": "Indeks dan rapor kesehatan ekosistem AI Indonesia — statis, dwibahasa, nol dependensi runtime.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node src/build.js",
+    "test": "node --test test/",
+    "sanitize": "node src/sanitize.js",
+    "periksa": "npm run test && npm run build"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

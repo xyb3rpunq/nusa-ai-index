@@ -1,0 +1,862 @@
+{
+ "total": 242,
+ "totalLove": 371,
+ "hidup": 223,
+ "mati": 19,
+ "berepo": 20,
+ "totalBintang": 162,
+ "tanpaLove": 80,
+ "hostPengganti": 20,
+ "klaimOssTanpaRepo": 27,
+ "raporRerata": 51.8801652892562,
+ "perTingkat": [
+  [
+   "rapuh",
+   203
+  ],
+  [
+   "kritis",
+   19
+  ],
+  [
+   "prima",
+   17
+  ],
+  [
+   "sehat",
+   3
+  ]
+ ],
+ "perKategori": [
+  [
+   "web",
+   65
+  ],
+  [
+   "saas",
+   60
+  ],
+  [
+   "opensource",
+   44
+  ],
+  [
+   "tools",
+   28
+  ],
+  [
+   "produk",
+   27
+  ],
+  [
+   "lainnya",
+   15
+  ],
+  [
+   "model",
+   3
+  ]
+ ],
+ "loveKategori": [
+  [
+   "saas",
+   102
+  ],
+  [
+   "opensource",
+   96
+  ],
+  [
+   "web",
+   76
+  ],
+  [
+   "tools",
+   41
+  ],
+  [
+   "produk",
+   38
+  ],
+  [
+   "lainnya",
+   16
+  ],
+  [
+   "model",
+   2
+  ]
+ ],
+ "perProvinsi": [
+  [
+   "Jawa Barat",
+   68
+  ],
+  [
+   "Jawa Tengah",
+   33
+  ],
+  [
+   "Jawa Timur",
+   33
+  ],
+  [
+   "DKI Jakarta",
+   20
+  ],
+  [
+   "Sulawesi Selatan",
+   18
+  ],
+  [
+   "Banten",
+   15
+  ],
+  [
+   "DI Yogyakarta",
+   15
+  ],
+  [
+   "Kalimantan Barat",
+   8
+  ],
+  [
+   "Sumatera Selatan",
+   8
+  ],
+  [
+   "Lampung",
+   4
+  ],
+  [
+   "Kalimantan Selatan",
+   3
+  ],
+  [
+   "Kepulauan Riau",
+   3
+  ],
+  [
+   "Sulawesi Barat",
+   3
+  ],
+  [
+   "Kalimantan Tengah",
+   2
+  ],
+  [
+   "Kalimantan Utara",
+   2
+  ],
+  [
+   "Bali",
+   1
+  ],
+  [
+   "Bengkulu",
+   1
+  ],
+  [
+   "Kalimantan Timur",
+   1
+  ],
+  [
+   "Nusa Tenggara Timur",
+   1
+  ],
+  [
+   "Sulawesi Utara",
+   1
+  ],
+  [
+   "Sumatera Barat",
+   1
+  ],
+  [
+   "Sumatera Utara",
+   1
+  ]
+ ],
+ "perKota": [
+  [
+   "Bekasi",
+   13
+  ],
+  [
+   "Bandung",
+   11
+  ],
+  [
+   "Makassar",
+   10
+  ],
+  [
+   "Semarang",
+   10
+  ],
+  [
+   "Tangerang",
+   9
+  ],
+  [
+   "Tasikmalaya",
+   9
+  ],
+  [
+   "Cimahi",
+   8
+  ],
+  [
+   "Malang",
+   8
+  ],
+  [
+   "Depok",
+   7
+  ],
+  [
+   "Palembang",
+   7
+  ],
+  [
+   "Blitar",
+   6
+  ],
+  [
+   "Bogor",
+   6
+  ],
+  [
+   "Gowa",
+   6
+  ],
+  [
+   "Grobogan",
+   6
+  ],
+  [
+   "Sleman",
+   6
+  ],
+  [
+   "Tangerang Selatan",
+   6
+  ],
+  [
+   "Bantul",
+   5
+  ],
+  [
+   "Jakarta Pusat",
+   5
+  ],
+  [
+   "Jakarta Selatan",
+   5
+  ],
+  [
+   "Jakarta Timur",
+   5
+  ],
+  [
+   "Karawang",
+   5
+  ],
+  [
+   "Jakarta Barat",
+   4
+  ],
+  [
+   "Sidoarjo",
+   4
+  ],
+  [
+   "Sumedang",
+   4
+  ],
+  [
+   "Surabaya",
+   4
+  ],
+  [
+   "Surakarta",
+   4
+  ],
+  [
+   "Wonogiri",
+   4
+  ],
+  [
+   "Yogyakarta",
+   4
+  ],
+  [
+   "Batam",
+   3
+  ],
+  [
+   "Jombang",
+   3
+  ],
+  [
+   "Mamuju Tengah",
+   3
+  ],
+  [
+   "Pontianak",
+   3
+  ],
+  [
+   "Sambas",
+   3
+  ],
+  [
+   "Sukoharjo",
+   3
+  ],
+  [
+   "Batu",
+   2
+  ],
+  [
+   "Bone",
+   2
+  ],
+  [
+   "Kebumen",
+   2
+  ],
+  [
+   "Kubu Raya",
+   2
+  ],
+  [
+   "Lampung Utara",
+   2
+  ],
+  [
+   "Sukabumi",
+   2
+  ],
+  [
+   "Tabalong",
+   2
+  ],
+  [
+   "Badung",
+   1
+  ],
+  [
+   "Barito Kuala",
+   1
+  ],
+  [
+   "Bengkulu",
+   1
+  ],
+  [
+   "Bulungan",
+   1
+  ],
+  [
+   "Ciamis",
+   1
+  ],
+  [
+   "Cirebon",
+   1
+  ],
+  [
+   "Deli Serdang",
+   1
+  ],
+  [
+   "Garut",
+   1
+  ],
+  [
+   "Gresik",
+   1
+  ],
+  [
+   "Jakarta Utara",
+   1
+  ],
+  [
+   "Jepara",
+   1
+  ],
+  [
+   "Kediri",
+   1
+  ],
+  [
+   "Klaten",
+   1
+  ],
+  [
+   "Kotawaringin Barat",
+   1
+  ],
+  [
+   "Kudus",
+   1
+  ],
+  [
+   "Kupang",
+   1
+  ],
+  [
+   "Kutai Kartanegara",
+   1
+  ],
+  [
+   "Lamongan",
+   1
+  ],
+  [
+   "Lampung Selatan",
+   1
+  ],
+  [
+   "Magetan",
+   1
+  ],
+  [
+   "Minahasa Utara",
+   1
+  ],
+  [
+   "Nganjuk",
+   1
+  ],
+  [
+   "Ogan Komering Ilir",
+   1
+  ],
+  [
+   "Padang",
+   1
+  ],
+  [
+   "Palangka Raya",
+   1
+  ],
+  [
+   "Sragen",
+   1
+  ],
+  [
+   "Tarakan",
+   1
+  ],
+  [
+   "Tulangbawang",
+   1
+  ],
+  [
+   "Tulungagung",
+   1
+  ]
+ ],
+ "celah": [
+  {
+   "tema": "Developer tools / infra",
+   "n": 39,
+   "nilai": "jenuh"
+  },
+  {
+   "tema": "Pendidikan / sekolah",
+   "n": 34,
+   "nilai": "jenuh"
+  },
+  {
+   "tema": "Konten / marketing AI",
+   "n": 27,
+   "nilai": "jenuh"
+  },
+  {
+   "tema": "POS / kasir / inventori",
+   "n": 20,
+   "nilai": "jenuh"
+  },
+  {
+   "tema": "CRM / WhatsApp automation",
+   "n": 19,
+   "nilai": "jenuh"
+  },
+  {
+   "tema": "Keuangan / akuntansi personal",
+   "n": 19,
+   "nilai": "jenuh"
+  },
+  {
+   "tema": "Travel / properti / marketplace",
+   "n": 19,
+   "nilai": "jenuh"
+  },
+  {
+   "tema": "Produktivitas personal",
+   "n": 18,
+   "nilai": "ramai"
+  },
+  {
+   "tema": "Data / riset / intelijen",
+   "n": 13,
+   "nilai": "ramai"
+  },
+  {
+   "tema": "Game / hiburan / kreatif",
+   "n": 13,
+   "nilai": "ramai"
+  },
+  {
+   "tema": "Web builder / template / portfolio",
+   "n": 13,
+   "nilai": "ramai"
+  },
+  {
+   "tema": "Pemerintahan / desa / komunitas",
+   "n": 12,
+   "nilai": "ramai"
+  },
+  {
+   "tema": "Web3 / kripto",
+   "n": 11,
+   "nilai": "tipis"
+  },
+  {
+   "tema": "Kesehatan",
+   "n": 10,
+   "nilai": "tipis"
+  },
+  {
+   "tema": "Dataset / benchmark / eval",
+   "n": 0,
+   "nilai": "kosong"
+  },
+  {
+   "tema": "Keamanan & red-team AI",
+   "n": 0,
+   "nilai": "kosong"
+  },
+  {
+   "tema": "Kepatuhan UU PDP",
+   "n": 0,
+   "nilai": "kosong"
+  },
+  {
+   "tema": "Ekonomi token / biaya AI",
+   "n": 0,
+   "nilai": "kosong"
+  },
+  {
+   "tema": "Produk dwibahasa ID/EN",
+   "n": 0,
+   "nilai": "kosong"
+  }
+ ],
+ "bulan": [
+  {
+   "bulan": "2026-07",
+   "n": 160,
+   "hari": 31,
+   "laju": 5.161290322580645
+  },
+  {
+   "bulan": "2026-08",
+   "n": 64,
+   "hari": 31,
+   "laju": 2.064516129032258
+  },
+  {
+   "bulan": "2026-09",
+   "n": 18,
+   "hari": 5,
+   "laju": 3.6
+  }
+ ],
+ "daftarMati": [
+  {
+   "id": "s00_01KXDNFS56Q41V8RFT05ZXQJ5Z",
+   "title": "Aigoo",
+   "url": "https://aigoo.id/",
+   "status": null,
+   "catatan": "timeout",
+   "jenis": "jaringan"
+  },
+  {
+   "id": "s00_01KZBC6R5ZQSF4FV20B0CKWJMG",
+   "title": "Bantu Guru",
+   "url": "https://bantuguru.web.id/",
+   "status": 403,
+   "catatan": "http 403",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01KXPWW977CAQJANDZ8FWQ785E",
+   "title": "Call Shield Smart Spam Blocker",
+   "url": "https://callshield.timxsoft.com",
+   "status": null,
+   "catatan": "sertifikat tidak sah",
+   "jenis": "jaringan"
+  },
+  {
+   "id": "s00_01KY2024VDWX9731QYT490K6CA",
+   "title": "Dental Clinic Information System",
+   "url": "https://klinik.dentamedika.com/",
+   "status": null,
+   "catatan": "timeout",
+   "jenis": "jaringan"
+  },
+  {
+   "id": "s00_01KY0C5ZGQATSEPE5TG57DM51T",
+   "title": "haccp-dinarproject",
+   "url": "https://haccpdinarproject.com/",
+   "status": 530,
+   "catatan": "http 530",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01KZ87Z9Q9V0KZG2H7FTX75YG3",
+   "title": "Kajawi",
+   "url": "https://kajawi.xyz/",
+   "status": 502,
+   "catatan": "http 502",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01KY0CMHCGYCW875FSY9ZDY917",
+   "title": "kalbarnusantara",
+   "url": "https://kalbarnusantara.id",
+   "status": 530,
+   "catatan": "http 530",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01KYTFCJ9CEM7XKV2MD4FCJXRX",
+   "title": "Lego MyTriv",
+   "url": "https://lego.mytriv.com",
+   "status": null,
+   "catatan": "DNS gagal",
+   "jenis": "jaringan"
+  },
+  {
+   "id": "s00_01KY1FFBWZ7ZJ1BEPVWSWBBNZH",
+   "title": "LEIZ STORE",
+   "url": "https://leiz.my.id/",
+   "status": 404,
+   "catatan": "http 404",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01KXZM1C7M66Q4N4ZC2EBM0BKE",
+   "title": "MSO",
+   "url": "https://os.rahmanef.com/",
+   "status": 404,
+   "catatan": "http 404",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01KX747QGS3M8J9QYWJATFHQYK",
+   "title": "NiBTM Open Science and Research Platform",
+   "url": "https://nibtm.web.id",
+   "status": null,
+   "catatan": "DNS gagal",
+   "jenis": "jaringan"
+  },
+  {
+   "id": "s00_01M1NW589P202R19MZY20B2X22",
+   "title": "PASBISE",
+   "url": "https://pasbise.ilkomers",
+   "status": null,
+   "catatan": "DNS gagal",
+   "jenis": "jaringan"
+  },
+  {
+   "id": "s00_01KXMDBC0T77JWKFFN7FECPGJA",
+   "title": "PJOK",
+   "url": "https://pjok.genzx.ir",
+   "status": null,
+   "catatan": "DNS gagal",
+   "jenis": "jaringan"
+  },
+  {
+   "id": "s00_01KX7CZ0FAEQJM3RYBR90TT54J",
+   "title": "Portfolio",
+   "url": "https://gifariksuryo.xyz",
+   "status": 523,
+   "catatan": "http 523",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01KXX60VSZ1GSF2PZ38H5ZBBHW",
+   "title": "PSTI JATIM",
+   "url": "https://www.pstijatim.com",
+   "status": null,
+   "catatan": "DNS gagal",
+   "jenis": "jaringan"
+  },
+  {
+   "id": "s00_01KY0CH85D9TNCVQ8EJ3S1WXAB",
+   "title": "siapabsen",
+   "url": "https://siapabsen.com",
+   "status": 530,
+   "catatan": "http 530",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01KY07ABMA66ANP3A2YK18MWX2",
+   "title": "SISTEM POS DAPUR JINNE",
+   "url": "https://pos.dapurjinne.com/",
+   "status": null,
+   "catatan": "timeout",
+   "jenis": "jaringan"
+  },
+  {
+   "id": "s00_01KWW93R4N74MQVVB2PETS7E3V",
+   "title": "split budget",
+   "url": "https://fancy-bushes-look.freebuff.dev/",
+   "status": 400,
+   "catatan": "http 400",
+   "jenis": "kode"
+  },
+  {
+   "id": "s00_01KZZNXSM2FVVMBJM1V4CBF4DJ",
+   "title": "Website uline.my.id",
+   "url": "https://uline.my.id",
+   "status": null,
+   "catatan": "DNS gagal",
+   "jenis": "jaringan"
+  }
+ ],
+ "juara": {
+  "puncak": 25,
+  "butuh": 26
+ },
+ "bintang": {
+  "titik": [
+   {
+    "title": "Clopen",
+    "slug": "myrialabs/clopen",
+    "star": 41,
+    "love": 0
+   },
+   {
+    "title": "TeleDrive",
+    "slug": "99apps-id/teledrive",
+    "star": 36,
+    "love": 3
+   },
+   {
+    "title": "Memory Layer AI Agent",
+    "slug": "mrizkiiy04/1Mbrain",
+    "star": 29,
+    "love": 1
+   },
+   {
+    "title": "AWCMS Repository",
+    "slug": "ahliweb/awcms",
+    "star": 13,
+    "love": 0
+   },
+   {
+    "title": "hanoman",
+    "slug": "denameidina/hanoman",
+    "star": 13,
+    "love": 2
+   },
+   {
+    "title": "NesaRouter (Alternative 9Router)",
+    "slug": "99apps-id/nesarouter",
+    "star": 10,
+    "love": 0
+   },
+   {
+    "title": "Pegasus Tak Terbatas",
+    "slug": "sobri3195/pegasus-tak-terbatas",
+    "star": 5,
+    "love": 0
+   },
+   {
+    "title": "hyperframes-video-workflow",
+    "slug": "denameidina/hyperframes-video-workflow",
+    "star": 4,
+    "love": 2
+   },
+   {
+    "title": "cash‑flow multimodal",
+    "slug": "Nurauliamuhdir/I-O-Modal-MoneyMate",
+    "star": 3,
+    "love": 18
+   },
+   {
+    "title": "FEATURE MAP",
+    "slug": "ade-syofyan/feature-map",
+    "star": 2,
+    "love": 1
+   },
+   {
+    "title": "OpenClaw Desktop Plus",
+    "slug": "99apps-id/openclaw-desktop-plus",
+    "star": 2,
+    "love": 0
+   },
+   {
+    "title": "flamegate llm gateway",
+    "slug": "bobbyunknown/flamegate",
+    "star": 1,
+    "love": 0
+   },
+   {
+    "title": "NetBastard",
+    "slug": "ekospinach/netbastard",
+    "star": 1,
+    "love": 0
+   },
+   {
+    "title": "RadioCurate AI",
+    "slug": "sobri3195/RadioCurate-AI",
+    "star": 1,
+    "love": 0
+   },
+   {
+    "title": "Web Aplikasi Undangan Event",
+    "slug": "hrmnpttr/undangan-event",
+    "star": 1,
+    "love": 1
+   },
+   {
+    "title": "ClearOrbit",
+    "slug": "Drazeus6/ClearOrbit",
+    "star": 0,
+    "love": 1
+   },
+   {
+    "title": "Gajahmada Sovereign AI",
+    "slug": "hoed/gajahmada",
+    "star": 0,
+    "love": 3
+   },
+   {
+    "title": "ID ClipperOn",
+    "slug": "bungrahman/idclipperon",
+    "star": 0,
+    "love": 1
+   },
+   {
+    "title": "Liturgia Live - Multi Output Lower Third",
+    "slug": "hrmnpttr/live-text-lower-third",
+    "star": 0,
+    "love": 4
+   },
+   {
+    "title": "SlimTabler",
+    "slug": "ekospinach/SlimTabler",
+    "star": 0,
+    "love": 0
+   }
+  ],
+  "korelasi": -0.07518661573017414
+ }
+}
